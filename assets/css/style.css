@@ -1,0 +1,38 @@
+
+
+.menu-bar {
+    background-image: linear-gradient(#fff, #d29cd0);
+}
+
+.nav-link {
+    font-size: 16px;
+    margin: 5px;
+    color: hsl(120, 3%, 8%)!important;
+    font-weight: 200;
+}
+
+.navbar-nav {
+    text-align: right;
+    margin-right: 20px;
+}
+
+.menu-bar .navbar-toggler {
+    padding-right: 20px;
+    outline: none!important;
+    border: none!important;
+}
+.navbar .fa {
+    color: #131413!important;
+    font-size: 26px;
+}
+
+.nav-link:hover {
+    font-weight: 400;
+    border-radius: 1px solid #fff;
+}
+
+.navbar-brand img {
+    width: 120px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
