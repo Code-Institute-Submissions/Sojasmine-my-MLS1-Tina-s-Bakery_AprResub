@@ -56,7 +56,8 @@ h2 {
 /*-------------------Paragraph*/
 
 p {
+    font-family: "Poppins";
     text-align: center;
     text-transform: none;
-    text-decoration-color: darkorchid;
+    color: darkorchid;
 }
