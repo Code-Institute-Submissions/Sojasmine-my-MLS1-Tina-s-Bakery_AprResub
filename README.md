@@ -1,13 +1,13 @@
-<!--Title and Information about the site
+<!--Title and Information about the site-->
 
 Tina's Bakery
 
 This website is build to give the 'User' a multiple choice to order baking products online such as cakes and breads.
-It provides a large information about the products like 'Gallery', 'Contact' and 'Location'.-->
+It provides a large information about the products like 'Gallery', 'Contact' and 'Location'.
 
 ---
 
-<!--File and Folders
+<!--File and Folders-->
 
 Create a new folder named "Assets"
 Create two subdirectories:
@@ -15,7 +15,7 @@ Create two subdirectories:
     CSS
 Create an empty file inside the CSS
     style.css 
-Create a new file "index.html"-->
+Create a new file "index.html"
 
 ---
 
