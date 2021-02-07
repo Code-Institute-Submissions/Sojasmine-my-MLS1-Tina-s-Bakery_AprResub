@@ -91,9 +91,23 @@ p {
     position: relative;
     display: flex;
     flex-direction: column;
-    min-width: 0;
+    width: 200px;
     background-color: #fff;
     background-clip: border-box;
     border: 1px solid rgba(0,0,0,.125);
-    border-radius: .25rem;
+    border-radius: .15rem;
+    padding: 3px;
+    box-shadow: 0 8px 6px -5px rgb(0, 0, 0, 75%);
+    margin: 80px;
 }
+
+
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: auto;
+   }
+
