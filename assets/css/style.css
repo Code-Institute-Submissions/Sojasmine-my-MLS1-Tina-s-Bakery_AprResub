@@ -45,6 +45,14 @@ body {
     margin-left: 20px;
 }
 
+/*-------------------Images*/ 
+
+.d-block w-100{
+    min-height: 50%;
+    margin: 0;
+}
+
+
 /*-------------------Headings*/ 
 
 h2 {
