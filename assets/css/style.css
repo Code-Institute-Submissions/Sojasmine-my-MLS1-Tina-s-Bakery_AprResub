@@ -53,6 +53,7 @@ body {
 
 /*-------------------Images*/ 
 
+
 .d-block {
     display: block!important;
     font-size: 50%;
@@ -67,6 +68,12 @@ img {
     vertical-align: middle;
     border-style: none;
 }
+
+
+#photo {
+  column-count: 2;
+}
+
 
 
 
@@ -112,4 +119,6 @@ p {
     float: left;
     width: auto;
    }
+
+   /*-------------------Footer*/
 
