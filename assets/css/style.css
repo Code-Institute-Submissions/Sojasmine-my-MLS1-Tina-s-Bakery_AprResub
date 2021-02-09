@@ -50,6 +50,15 @@ body {
     margin-top: 5px;
     margin-left: 20px;
 }
+/*-------------------Headings*/
+
+div.a {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
 
 /*-------------------Images*/ 
 
@@ -80,14 +89,8 @@ img {
 }
 
 
-/*-------------------Headings*/ 
 
-.heading h4 {
-    text-align: center;  
-    text-transform: none;
-    }
     
-
 /*-------------------Paragraph*/
 
 p {
