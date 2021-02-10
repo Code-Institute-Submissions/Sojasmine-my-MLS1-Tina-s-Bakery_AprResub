@@ -2,7 +2,7 @@
 /*-------------------Body*/
 
 body {
-    background-color: cyan;
+    background-color: rgb(230, 231, 231);
     font-family: 'Poppins', Arial, sans-serif;
     font-size: 1rem;
     font-weight: 400;
@@ -14,7 +14,7 @@ body {
 /*-------------------Navbar*/
 
 .menu-bar {
-    background-image: linear-gradient(#fff, #d29cd0);
+    background-image: linear-gradient(purple, pink, white);
 }
 
 .nav-link {
@@ -126,9 +126,13 @@ p {
     width: auto;
 }
 
-   /*-------------------Footer*/
-
 /*-------------------Forms*/
+
+form {
+    background-color: none;
+}
+
+/*-------------------Footer*/
 
 
 
