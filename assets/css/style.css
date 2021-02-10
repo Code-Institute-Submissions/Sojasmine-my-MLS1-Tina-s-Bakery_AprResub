@@ -74,6 +74,13 @@ h6 {
     color: darkorchid;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
+
+h3,br {
+    text-align: center;
+    box-shadow: 10px 10px;
+}
+
+
 /*-------------------Images*/ 
 
 
@@ -102,6 +109,10 @@ img {
     height: auto;
 }
 
+.carousel-item {
+    width: 25%;
+    height: 25%;
+}
 
 
     
@@ -145,6 +156,7 @@ p {
 form {
     background-color: none;
 }
+
 
 /*-------------------Footer*/
 
