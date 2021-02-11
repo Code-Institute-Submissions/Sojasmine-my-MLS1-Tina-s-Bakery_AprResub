@@ -127,6 +127,7 @@ p {
 .inline-block {
     text-align: center;
 }
+
 /*-------------------Cards*/
 
 .card {
@@ -167,5 +168,8 @@ footer {
     position: relative;
 }
 
+footer p {
+    color: #990099;
+}
 
 
