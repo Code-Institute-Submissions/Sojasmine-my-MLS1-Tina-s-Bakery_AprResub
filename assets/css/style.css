@@ -81,7 +81,9 @@ h3,br {
     box-shadow: 10px 10px;
 }
 
-
+.inline-block a {
+    text-align: center;
+}
 /*-------------------Images*/ 
 
 
@@ -122,6 +124,9 @@ p {
     color: black;
 }
 
+.inline-block {
+    text-align: center;
+}
 /*-------------------Cards*/
 
 .card {
