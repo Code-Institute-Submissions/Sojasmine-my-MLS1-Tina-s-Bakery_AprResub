@@ -177,12 +177,14 @@ footer p {
 }
 
 .social-links li a i {
-    width: 20px;
-    height: 20px;
-    padding: 12px;
-    font-size: 12px;
+    width: 30px;
+    height: 30px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 14px;
     color: #ff00ff;
-    background-color: #fafafa;
+   
+    
 
 }
 
