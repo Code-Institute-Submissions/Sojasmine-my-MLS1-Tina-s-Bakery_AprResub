@@ -1,5 +1,5 @@
 # Tina's Bakery
- They offer service for small or large orders for any event. 
+ They offer service for small and large orders for any event. They even have gluten and lactose free for intolerant. 
 
  After speaking with my mentor about my ideas, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) some source ideas. 
   
@@ -63,8 +63,12 @@ ___
         * The _image carousel slide only_ was taken from boostrap
 
            <img src="assets/source/carousel.JPG">
-           [canva] (http://www.canva.com)
+           [canva](http://www.canva.com)
            [link to the image](https://www.canva.com/design/DAEVTbZ9BeI/zhHGLaLkkw5lKy2EeM2XTw/edit)
+
+           The code source used for all the images on **Menu, cakes, and bread** from bootsrap is below: 
+
+           <img src="assets/source/cards.JPG">
 
            All the images from the **Home** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
 
@@ -104,22 +108,82 @@ ___
 
          [valentine's cake deluxe nr 4](https://besthqwallpapers.com/sv/mat/alla-hj%C3%A4rtans-dag-t%C3%A5rta-s%C3%B6tsaker-t%C3%A5rta-dekoration-romantisk-present-39264)
 
-
+        ---
      1. Bread
-        * All the images from the **Bread** menu was taken from [pixabay](https://pixabay.com/)
+        * All the images from the **Bread** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
 
-        [Rye bread]()
-        [Rolls with chocolate]()
-        [Loaf]()
-        [Sport bread]()
-        [Coarse loaf]()
-        [Rolls with seeds]()
-        [Mini baguette]()
-        [Gluten free rolls]()
+        [Rye bread](https://pixabay.com/sv/photos/br%C3%B6d-limpor-bageri-br%C3%B6dskivor-388647/)
+
+        [Rolls with chocolate](https://pixabay.com/sv/photos/br%C3%B6d-bageri-1657979/)
+
+        [Loaf](https://pixabay.com/sv/photos/mat-friska-br%C3%B6d-f%C3%A4rska-bageri-2755315/)
+                
+        [Sport bread](https://pixabay.com/sv/photos/br%C3%B6d-hembakat-br%C3%B6d-bageri-frukost-2462782/)
+
+        [Coarse loaf](https://pixabay.com/sv/photos/br%C3%B6d-bagare-bakade-varor-hantverk-1954797/)
+
+        [Rolls with seeds](https://pixabay.com/sv/photos/mat-f%C3%B6rfriskning-l%C3%A4ckra-3256555/)
+
+        [Mini baguette](https://pixabay.com/sv/photos/br%C3%B6d-choklad-s%C3%B6t-mat-bageri-kaka-3658575/)
+
+        [Gluten free rolls](https://pixabay.com/sv/photos/rullar-bageri-frukost-%C3%A4ta-k%C3%B6k-2018744/)
+        
+        ---
+
      1. Gallery
+        * All the images from the **Gallery** menu was taken from [pixabay](https://pixabay.com/)
+
+        [cake 21](https://besthqwallpapers.com/sv/semester/glad-alla-hj%C3%A4rtans-dag-14-februari-choklad-kakor-r%C3%B6da-hj%C3%A4rtan-romantisk-kv%C3%A4ll-37276)
+
+        [cake 19](https://besthqwallpapers.com/sv/semester/grattis-p%C3%A5-f%C3%B6delsedagen-holiday-cupcakes-gratulationskort-muffins-med-ljus-t%C3%A5rta-98201)
+
+        [cake 20](https://besthqwallpapers.com/sv/semester/halloween-cupcakes-orange-cream-s%C3%B6tsaker-bakverk-cupcakes-106282)
+
+        [cake 16](https://besthqwallpapers.com/sv/mat/pannkakor-med-b%C3%A4r-4k-bl%C3%A5b%C3%A4r-jordgubbar-mynta-137326)
+
+        [cake 15](https://besthqwallpapers.com/sv/drycker/vinb%C3%A4r-smoothies-4k-b%C3%A4r-frukt-frukost-101069)
+
+        [cake 10](https://besthqwallpapers.com/sv/mat/f%C3%B6delsedag-rosa-t%C3%A5rta-s%C3%B6tsaker-kakor-cupcakes-32705)
+
+        [cake 11](https://besthqwallpapers.com/sv/mat/frukost-rostat-br%C3%B6d-br%C3%B6d-frukt-jordgubbar-14068)
+
+        [cake 23](https://besthqwallpapers.com/sv/mat/br%C3%B6llopst%C3%A5rta-lila-stor-kaka-br%C3%B6llop-koncept-kakor-77764)
+        
+        [cake 12](https://besthqwallpapers.com/sv/mat/f%C3%B6delsedag-rosa-t%C3%A5rta-s%C3%B6tsaker-jordgubbst%C3%A5rta-rosa-gr%C3%A4dde-43483)
+
+        [cake 24](https://besthqwallpapers.com/sv/mat/br%C3%B6llop-rosa-t%C3%A5rta-rosa-gr%C3%A4dde-rosor-dekoration-br%C3%B6llop-koncept-kakor-79216)
+
+        ---
+
      1. Menu
+        * The **Menu** was created on [canva](http://www.canva.com)
+
+           Link to the menu [Menu](https://www.canva.com/design/DAEVK9Qynis/lEs6er7acvvIIMO3tktnAA/edit)
+
+           The idea to create the menu came from the \* The project Rosie\*
+
+        ---
+
      1. About
+        * I used _carousel slide_ to decorate the page. The source code came from Bootsrap:
+
+        <img src="assets/source/carousel-slide.JPG">
+
+         All the images on this page were taken from [pixabay](http://www.pixabay.com)
+         
+        * I decorated the pages under the \*customer's review\* with some emoijs taken from [w3 schools](http://www.w3schools.com)
+
+          Link to the [emoij](https://www.w3schools.com/charsets/ref_emoji.asp)
+
+          [bagery](https://pixabay.com/sv/photos/marbella-andalusien-spanien-bageri-1437172/)
+
+          [cake26](https://pixabay.com/sv/photos/t%C3%A5rta-vispad-gr%C3%A4dde-konditori-204885/)
+          
+          [bakery](https://pixabay.com/sv/photos/bageri-br%C3%B6d-ugn-hantverkare-br%C3%B6d-737476/)
+        ---
+        
      1. Contact
+        ---
    
 ### The headings
 ### The section
@@ -143,6 +207,7 @@ command python3 -m http.server used to open the browser
  besthqwallpapers
  Free logo design
  tutorialspoint
+ all the images/pictures was free. No license needed.
 
 ## Testing
 W3 validator , html and css for checking: result HTML nad CSS (show result)
