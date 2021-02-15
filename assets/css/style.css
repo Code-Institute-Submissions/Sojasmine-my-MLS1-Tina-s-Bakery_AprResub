@@ -149,10 +149,6 @@ p {
 }
 
 
-* {
-    box-sizing: border-box;
-}
-
 .column {
     float: left;
     width: auto;
@@ -161,7 +157,8 @@ p {
 /*-------------------Forms*/
 
 form {
-    background-color: pink;
+    font-weight: normal; 
+    background-color: rgb(237, 222, 241);
 }
 
 
