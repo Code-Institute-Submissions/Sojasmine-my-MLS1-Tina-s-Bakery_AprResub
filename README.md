@@ -53,7 +53,15 @@ ___
 }`
 ---
    * The menu contains 7 pages: 
-     1. Home
+        * Home
+        * Cakes
+        * Bread
+        * Gallery
+        * Menu
+        * About
+        * Contact
+
+    ### Home
         * The header `<h3>Beautiful deluxe baked goods</h3>` was styled with \* text-shadow\* 
 
            `text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;`
@@ -81,7 +89,7 @@ ___
            [wedding deluxe](https://besthqwallpapers.com/sv/mat/br%C3%B6llopst%C3%A5rta-vit-kr%C3%A4m-vit-multi-niv%C3%A5-t%C3%A5rta-med-rosor-efterr%C3%A4tt-kakor-59142)
 
       ---      
-     1. Cakes
+    ### Cakes
          * All the images from the **Cakes** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
 
          [wedding cake deluxe nr1](https://besthqwallpapers.com/sv/mat/br%C3%B6llopst%C3%A5rta-tr%C3%A4kakastativ-tv%C3%A5delad-t%C3%A5rta-br%C3%B6llop-t%C3%A5rta-153045)
@@ -109,7 +117,7 @@ ___
          [valentine's cake deluxe nr 4](https://besthqwallpapers.com/sv/mat/alla-hj%C3%A4rtans-dag-t%C3%A5rta-s%C3%B6tsaker-t%C3%A5rta-dekoration-romantisk-present-39264)
 
         ---
-     1. Bread
+    ### Bread
         * All the images from the **Bread** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
 
         [Rye bread](https://pixabay.com/sv/photos/br%C3%B6d-limpor-bageri-br%C3%B6dskivor-388647/)
@@ -130,7 +138,7 @@ ___
         
         ---
 
-     1. Gallery
+    ### Gallery
         * All the images from the **Gallery** menu was taken from [pixabay](https://pixabay.com/)
 
         [cake 21](https://besthqwallpapers.com/sv/semester/glad-alla-hj%C3%A4rtans-dag-14-februari-choklad-kakor-r%C3%B6da-hj%C3%A4rtan-romantisk-kv%C3%A4ll-37276)
@@ -155,7 +163,7 @@ ___
 
         ---
 
-     1. Menu
+    ### Menu
         * The **Menu** was created on [canva](http://www.canva.com)
 
            Link to the menu [Menu](https://www.canva.com/design/DAEVK9Qynis/lEs6er7acvvIIMO3tktnAA/edit)
@@ -164,7 +172,7 @@ ___
 
         ---
 
-     1. About
+    ### About
         * I used _carousel slide_ to decorate the page. The source code came from Bootsrap:
 
         <img src="assets/source/carousel-slide.JPG">
@@ -178,11 +186,18 @@ ___
           [bagery](https://pixabay.com/sv/photos/marbella-andalusien-spanien-bageri-1437172/)
 
           [cake26](https://pixabay.com/sv/photos/t%C3%A5rta-vispad-gr%C3%A4dde-konditori-204885/)
-          
+
           [bakery](https://pixabay.com/sv/photos/bageri-br%C3%B6d-ugn-hantverkare-br%C3%B6d-737476/)
         ---
         
-     1. Contact
+    ### Contact
+        * I used the *table-dark* method for the contact information.
+
+          The source code came from [Bootsrap](https://getbootstrap.com)
+          
+          <image src="assets/source/tables.JPG">
+
+          
         ---
    
 ### The headings
