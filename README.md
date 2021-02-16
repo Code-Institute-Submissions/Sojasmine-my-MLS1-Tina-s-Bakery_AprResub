@@ -187,10 +187,6 @@ All the images from the **Home** menu was taken from [Besthq wallpapers](http://
     !<img src="assets/source/carousel-slide.JPG">
 
     All the images on this page were taken from [pixabay](http://www.pixabay.com)
-         
-*   I decorated the pages under the \*customer's review\* with some emoijs taken from [w3 schools](http://www.w3schools.com)
-
-    Link to the [emoij](https://www.w3schools.com/charsets/ref_emoji.asp)
 
     [bagery](https://pixabay.com/sv/photos/marbella-andalusien-spanien-bageri-1437172/)
 
@@ -198,6 +194,12 @@ All the images from the **Home** menu was taken from [Besthq wallpapers](http://
 
     [bakery](https://pixabay.com/sv/photos/bageri-br%C3%B6d-ugn-hantverkare-br%C3%B6d-737476/)
         
+         
+*   I decorated the pages under the \*customer's review\* with some emoijs taken from [w3 schools](http://www.w3schools.com)
+
+    Link to the [emoij](https://www.w3schools.com/charsets/ref_emoji.asp)
+
+    
         
 ####    Contact
 
