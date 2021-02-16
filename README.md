@@ -1,7 +1,7 @@
 # Tina's Bakery
  They offer service for small and large orders for any event. They even have gluten and lactose free for intolerant. 
 
- After speaking with my mentor about my ideas, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) some source of inspiration. 
+ After speaking with my mentor about my ideas, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) for source of inspiration. 
   
 ## Overview
 
@@ -41,7 +41,8 @@ ___
 ---
 
    * The code for navbar was taken from bootsrap. I added more nav-items on the link and changed the description.
-    <img src="assets/images/navbar menu.JPG">
+
+    ![navbar](assets/images/navbarmenu.JPG)
 
     * I used *linear gardient* as the background color for the navbar.
 
@@ -78,7 +79,7 @@ ___
 
     The code source used for all the images on **Menu, cakes, and bread** from bootsrap is below: 
 
-    !<img src="assets/source/cards.JPG">
+    <img src="assets/source/cards.JPG">
 
     All the images from the **Home** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
 
@@ -122,21 +123,21 @@ ___
 ####    Bread
 *    All the images from the **Bread** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
 
-    [Rye bread](https://pixabay.com/sv/photos/br%C3%B6d-limpor-bageri-br%C3%B6dskivor-388647/)
+    [Rye bread](https://pixabay.com/sv/photos/br%C3%B6d-limpor-bageri-br%C3%B6dskivor-388647)
 
-    [Rolls with chocolate](https://pixabay.com/sv/photos/br%C3%B6d-bageri-1657979/)
+    [Rolls with chocolate](https://pixabay.com/sv/photos/br%C3%B6d-bageri-1657979)
 
-    [Loaf](https://pixabay.com/sv/photos/mat-friska-br%C3%B6d-f%C3%A4rska-bageri-2755315/)
+    [Loaf](https://pixabay.com/sv/photos/mat-friska-br%C3%B6d-f%C3%A4rska-bageri-2755315)
                 
-    [Sport bread](https://pixabay.com/sv/photos/br%C3%B6d-hembakat-br%C3%B6d-bageri-frukost-2462782/)
+    [Sport bread](https://pixabay.com/sv/photos/br%C3%B6d-hembakat-br%C3%B6d-bageri-frukost-2462782)
 
-    [Coarse loaf](https://pixabay.com/sv/photos/br%C3%B6d-bagare-bakade-varor-hantverk-1954797/)
+    [Coarse loaf](https://pixabay.com/sv/photos/br%C3%B6d-bagare-bakade-varor-hantverk-1954797)
 
-    [Rolls with seeds](https://pixabay.com/sv/photos/mat-f%C3%B6rfriskning-l%C3%A4ckra-3256555/)
+    [Rolls with seeds](https://pixabay.com/sv/photos/mat-f%C3%B6rfriskning-l%C3%A4ckra-3256555)
 
-    [Mini baguette](https://pixabay.com/sv/photos/br%C3%B6d-choklad-s%C3%B6t-mat-bageri-kaka-3658575/)
+    [Mini baguette](https://pixabay.com/sv/photos/br%C3%B6d-choklad-s%C3%B6t-mat-bageri-kaka-3658575)
 
-    [Gluten free rolls](https://pixabay.com/sv/photos/rullar-bageri-frukost-%C3%A4ta-k%C3%B6k-2018744/)
+    [Gluten free rolls](https://pixabay.com/sv/photos/rullar-bageri-frukost-%C3%A4ta-k%C3%B6k-2018744)
         
 ---
 
@@ -196,7 +197,7 @@ ___
         
 ####    Contact
 
-*    I used the *table-dark* method for the contact information.
+*    I used the table-dark method for the contact information.
 
     The source code came from [Bootsrap](https://getbootstrap.com)
           

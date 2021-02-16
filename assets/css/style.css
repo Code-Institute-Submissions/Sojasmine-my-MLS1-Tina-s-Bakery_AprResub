@@ -154,6 +154,14 @@ p {
     width: auto;
 }
 
+
+/*-------------------Table*/
+
+.table-dark, .table-dark>td, .table-dark>th {
+  width: 800px;
+  height: 200px;
+  margin: 70px;
+}
 /*-------------------Forms*/
 
 form {
