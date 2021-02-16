@@ -42,17 +42,18 @@ ___
 
    * The code for navbar was taken from bootsrap. I added more nav-items on the link and changed the description.
 
-    ![navbar](assets/images/navbarmenu.JPG)
+![navbar](assets/images/navbarmenu.JPG)
 
-    * I used *linear gardient* as the background color for the navbar.
+   * I used *linear gardient* as the background color for the navbar.
+    
+I found the code on [w3 schools](http://w3schools.com) 
+ink to the source code (https://www.w3schools.com/cssref/func_linear-gradient.asp)
 
-      I found the code on [w3 schools](http://w3schools.com) ,
-      link to the source code (https://www.w3schools.com/cssref/func_linear-gradient.asp)
+The color I choose for the background is : 
 
-      The color I choose for the background is : 
-      `.menu-bar {
-    background-image: linear-gradient(purple, pink, white);
-}`
+`.menu-bar {
+background-image: linear-gradient(purple, pink, white);}`
+
 ---
    * The menu contains 7 pages: 
      * Home
@@ -73,27 +74,30 @@ ___
     <img src="assets/source/text-shadow.JPG">
 *    The _image carousel slide only_ was taken from boostrap
 
-    <img src="assets/source/carousel.JPG">
-    [canva](http://www.canva.com)
-    [link to the image](https://www.canva.com/design/DAEVTbZ9BeI/zhHGLaLkkw5lKy2EeM2XTw/edit)
+<img src="assets/source/carousel.JPG">
 
-    The code source used for all the images on **Menu, cakes, and bread** from bootsrap is below: 
+[canva](http://www.canva.com)
 
-    <img src="assets/source/cards.JPG">
+[link to the image](https://www.canva.com/design/DAEVTbZ9BeI/zhHGLaLkkw5lKy2EeM2XTw/edit)
 
-    All the images from the **Home** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
+The code source used for all the images on **Menu, cakes, and bread** from bootsrap is below: 
 
-    [birthday deluxe](https://besthqwallpapers.com/sv/semester/grattis-p%C3%A5-f%C3%B6delsedagen-bl%C3%A5-t%C3%A5rta-pojken-f%C3%B6delsedag-grattis-t%C3%A5rta-80176)
+<img src="assets/source/cards.JPG">
 
-    [cheese cake deluxe](https://besthqwallpapers.com/sv/mat/choklad-kaka-b%C3%A4r-choklad-bl%C3%A5b%C3%A4r-choklad-cheesecake-49979)
+All the images from the **Home** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
 
-    [fruit deluxe](https://besthqwallpapers.com/sv/mat/grattis-p%C3%A5-f%C3%B6delsedagen-t%C3%A5rta-s%C3%B6tsaker-bakverk-frukt-t%C3%A5rta-30157)
+[birthday deluxe](https://besthqwallpapers.com/sv/semester/grattis-p%C3%A5-f%C3%B6delsedagen-bl%C3%A5-t%C3%A5rta-pojken-f%C3%B6delsedag-grattis-t%C3%A5rta-80176)
 
-    [wedding deluxe](https://besthqwallpapers.com/sv/mat/br%C3%B6llopst%C3%A5rta-vit-kr%C3%A4m-vit-multi-niv%C3%A5-t%C3%A5rta-med-rosor-efterr%C3%A4tt-kakor-59142)
+[cheese cake deluxe](https://besthqwallpapers.com/sv/mat/choklad-kaka-b%C3%A4r-choklad-bl%C3%A5b%C3%A4r-choklad-cheesecake-49979)
+
+[fruit deluxe](https://besthqwallpapers.com/sv/mat/grattis-p%C3%A5-f%C3%B6delsedagen-t%C3%A5rta-s%C3%B6tsaker-bakverk-frukt-t%C3%A5rta-30157)
+
+[wedding deluxe](https://besthqwallpapers.com/sv/mat/br%C3%B6llopst%C3%A5rta-vit-kr%C3%A4m-vit-multi-niv%C3%A5-t%C3%A5rta-med-rosor-efterr%C3%A4tt-kakor-59142)
     
 
 ####    Cakes
-*   All the images from the **Cakes** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
+   
+* All the images from the **Cakes** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
 
     [wedding cake deluxe nr1](https://besthqwallpapers.com/sv/mat/br%C3%B6llopst%C3%A5rta-tr%C3%A4kakastativ-tv%C3%A5delad-t%C3%A5rta-br%C3%B6llop-t%C3%A5rta-153045)
 
@@ -121,28 +125,29 @@ ___
 
 
 ####    Bread
-*    All the images from the **Bread** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
 
-    [Rye bread](https://pixabay.com/sv/photos/br%C3%B6d-limpor-bageri-br%C3%B6dskivor-388647)
+*    All the images from the **Bread** menu was taken from [pixabay](http://pixabay.com)
 
-    [Rolls with chocolate](https://pixabay.com/sv/photos/br%C3%B6d-bageri-1657979)
+[rye bread](https://pixabay.com/sv/photos/br%C3%B6d-limpor-bageri-br%C3%B6dskivor-388647)
 
-    [Loaf](https://pixabay.com/sv/photos/mat-friska-br%C3%B6d-f%C3%A4rska-bageri-2755315)
+[rolls with chocolate](https://pixabay.com/sv/photos/br%C3%B6d-bageri-1657979)
+
+[loaf](https://pixabay.com/sv/photos/mat-friska-br%C3%B6d-f%C3%A4rska-bageri-2755315)
                 
-    [Sport bread](https://pixabay.com/sv/photos/br%C3%B6d-hembakat-br%C3%B6d-bageri-frukost-2462782)
+[sport bread](https://pixabay.com/sv/photos/br%C3%B6d-hembakat-br%C3%B6d-bageri-frukost-2462782)
 
-    [Coarse loaf](https://pixabay.com/sv/photos/br%C3%B6d-bagare-bakade-varor-hantverk-1954797)
+[coarse loaf](https://pixabay.com/sv/photos/br%C3%B6d-bagare-bakade-varor-hantverk-1954797)
 
-    [Rolls with seeds](https://pixabay.com/sv/photos/mat-f%C3%B6rfriskning-l%C3%A4ckra-3256555)
+[rolls with seeds](https://pixabay.com/sv/photos/mat-f%C3%B6rfriskning-l%C3%A4ckra-3256555)
 
-    [Mini baguette](https://pixabay.com/sv/photos/br%C3%B6d-choklad-s%C3%B6t-mat-bageri-kaka-3658575)
+[mini baguette](https://pixabay.com/sv/photos/br%C3%B6d-choklad-s%C3%B6t-mat-bageri-kaka-3658575)
 
-    [Gluten free rolls](https://pixabay.com/sv/photos/rullar-bageri-frukost-%C3%A4ta-k%C3%B6k-2018744)
+[gluten free rolls](https://pixabay.com/sv/photos/rullar-bageri-frukost-%C3%A4ta-k%C3%B6k-2018744)
         
 ---
 
 ####    Gallery
-*   All the images from the **Gallery** menu was taken from [pixabay](https://pixabay.com/)
+*   All the images from the **Gallery** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
 
     [cake 21](https://besthqwallpapers.com/sv/semester/glad-alla-hj%C3%A4rtans-dag-14-februari-choklad-kakor-r%C3%B6da-hj%C3%A4rtan-romantisk-kv%C3%A4ll-37276)
 
@@ -164,7 +169,6 @@ ___
 
     [cake 24](https://besthqwallpapers.com/sv/mat/br%C3%B6llop-rosa-t%C3%A5rta-rosa-gr%C3%A4dde-rosor-dekoration-br%C3%B6llop-koncept-kakor-79216)
 
-        ---
 
 ####    Menu
 
@@ -199,9 +203,11 @@ ___
 
 *    I used the table-dark method for the contact information.
 
-    The source code came from [Bootsrap](https://getbootstrap.com)
+The source code came from [Bootsrap](https://getbootstrap.com)
+
+!<img src="assets/source/tables.JPG">
           
-    !<image src="assets/source/tables.JPG">
+
 
           
     
@@ -212,32 +218,52 @@ ___
 
 ## Tech used
 HTML, CSS and Javascript
+
 Balsamiq wireframes
+
 Fontawesome
+
 Google Fonts
+
 Bootsrap 4.2.1 
 
 ##  Github
 CLI command used to add, commit and push to github.
-command python3 -m http.server used to open the browser
+
+python3 -m http.server used to open the browser
+
 ## Sources
+
  W3 schools
+
  Google search
+
  pixabay
+
  canva
+
  besthqwallpapers
+
  Free logo design
+
  tutorialspoint
+
  all the images/pictures was free. No license needed.
 
 ## Testing
 W3 validator , html and css for checking: result HTML nad CSS (show result)
+
 ami.respomsivedesing.information
+
 google chrome
+
 Opera
+
 Firefox
+
 Microsoft edge
+
 Mobile console
 
 ## Bug
-Error 304 and 404 on my workspace. I googled what is this for code. After I deleled the browser historic, it was gone.
+Error 304 and 404 on my workspace.I googled what is this for code. After I deleled the browser historic.
