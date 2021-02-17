@@ -97,7 +97,7 @@ All the images from the **Home** menu was taken from [Besthq wallpapers](http://
 
 ####    Cakes
    
-* All the images from the **Cakes** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
+* All the images from the **Cakes** menu belongs to [Besthq wallpapers](http://besthqwallpapers.com)
 
     [wedding cake deluxe nr1](https://besthqwallpapers.com/sv/mat/br%C3%B6llopst%C3%A5rta-tr%C3%A4kakastativ-tv%C3%A5delad-t%C3%A5rta-br%C3%B6llop-t%C3%A5rta-153045)
 
@@ -147,7 +147,7 @@ All the images from the **Home** menu was taken from [Besthq wallpapers](http://
 ---
 
 ####    Gallery
-*   All the images from the **Gallery** menu was taken from [Besthq wallpapers](http://besthqwallpapers.com)
+*   All the images from the **Gallery** on this site belongs to [Besthq wallpapers](http://besthqwallpapers.com)
 
     [cake 21](https://besthqwallpapers.com/sv/semester/glad-alla-hj%C3%A4rtans-dag-14-februari-choklad-kakor-r%C3%B6da-hj%C3%A4rtan-romantisk-kv%C3%A4ll-37276)
 
