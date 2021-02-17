@@ -282,3 +282,11 @@ The source code came from [W3 schools](https://w3schools.com)
 
 ## Bug
 Error 304 and 404 on my workspace.I googled what is this for code. After I deleled the browser historic.
+
+w3 css error: Too many values or values are not recognized.
+
+<img src="assets/source/Error.JPG">
+
+I removed the _solid #fff_
+
+
