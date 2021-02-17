@@ -221,6 +221,12 @@ The source code for the _footer_ came from the lesson _Project Rosie_ .
 
 <img src="assets/source/footer.JPG">
 
+
+The _copyright_ symbol I found at [W3 schools](https://www.w3schools.com)
+
+<img src="assets/source/copyright.JPG">
+
+
 ## Tech used
 * HTML 
 
