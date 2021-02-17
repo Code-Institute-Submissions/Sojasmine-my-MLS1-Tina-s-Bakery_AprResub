@@ -208,7 +208,11 @@ All the images from the **Home** menu was taken from [Besthq wallpapers](http://
 The source code came from [W3 schools](https://w3schools.com)
 
 <img src="assets/source/table.JPG">
-          
+
+
+Open | Address | Email
+---- | --------| -----
+Weekaday: 07:00 to 17:00 | Tallvägen 24, 454 30 Brastad | tina@bakery.se
 
 
 ### The footer
