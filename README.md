@@ -205,67 +205,80 @@ All the images from the **Home** menu was taken from [Besthq wallpapers](http://
 
 *    I used the table-dark method for the contact information.
 
-The source code came from [Bootsrap](https://getbootstrap.com)
+The source code came from [W3 schools](https://w3schools.com)
 
-<img src="assets/source/tables.JPG">
+<img src="assets/source/table.JPG">
           
 
 
-          
-    
-   
-### The headings
-### The section
 ### The footer
 
 ## Tech used
-HTML, CSS and Javascript
+* HTML 
 
-Balsamiq wireframes
+* CSS 
 
-Fontawesome
+  `<link rel="stylesheet" href="assets/css/style.css" />`
 
-Google Fonts
+* Javascript
 
-Bootsrap 4.2.1 
+  `<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>`
+
+  `<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>`
+ 
+* Balsamiq wireframes
+
+* Fontawesome
+
+  `<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"/>`
+
+* Google Fonts
+
+   `<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Poppins&display=swap" rel="stylesheet">`
+
+* Bootsrap 4.2.1  
+  
+  `<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" type="text/css" />`
+
+  
 
 ##  Github
-CLI command used to add, commit and push to github.
+* CLI command used to add, commit and push to github.
 
-python3 -m http.server used to open the browser
+* python3 -m http.server used to open the browser
 
 ## Sources
 
- W3 schools
+ [W3 schools](https://www.w3schools.com)
 
- Google search
+ [Google search](https://www.google.com)
 
- pixabay
+ [Pixabay](http://www.pixabay.com)
 
- canva
+ [Canva](http://www.canva.com)
 
- besthqwallpapers
+ [Besthqwallpapers](http://besthqwallpapers.com)
 
- Free logo design
+ [Free logo design](http://www.freelogodesign.org)
 
- tutorialspoint
+ [stackoverflow](https://stackoverflow.com/)
 
- all the images/pictures was free. No license needed.
+ All the images/pictures was free. No license needed.
 
 ## Testing
-W3 validator , html and css for checking: result HTML nad CSS (show result)
+* W3 validator , html and css for checking: result HTML nad CSS (show result)
 
-ami.respomsivedesing.information
+* ami.respomsivedesing.information
 
-google chrome
+* google chrome
 
-Opera
+* Opera
 
-Firefox
+* Firefox
 
-Microsoft edge
+* Microsoft edge
 
-Mobile console
+* Mobile console
 
 ## Bug
 Error 304 and 404 on my workspace.I googled what is this for code. After I deleled the browser historic.

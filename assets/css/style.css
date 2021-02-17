@@ -147,6 +147,8 @@ p {
     padding: 3px;
     box-shadow: 0 8px 6px -5px rgb(0, 0, 0, 75%);
     margin: 80px;
+    margin-left: 2px;
+    
 }
 
 
@@ -186,6 +188,7 @@ footer p {
     color: #990099;
 }
 
+/*-------------------Social links*/
 .social-links li a i {
     width: 30px;
     height: 30px;
