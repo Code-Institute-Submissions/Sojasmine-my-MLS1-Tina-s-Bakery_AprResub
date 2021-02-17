@@ -72,11 +72,11 @@ background-image: linear-gradient(purple, pink, white);}`
     source from [w3 schools](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp)
 
     <img src="assets/source/text-shadow.JPG">
-*    The _image carousel slide only_ was taken from boostrap
+*    The source code for _image carousel slide only_ was taken from boostrap.
 
 <img src="assets/source/carousel.JPG">
 
-[canva](http://www.canva.com)
+ The image was taken from [canva](http://www.canva.com)
 
 [link to the image](https://www.canva.com/design/DAEVTbZ9BeI/zhHGLaLkkw5lKy2EeM2XTw/edit)
 
@@ -174,7 +174,7 @@ All the images from the **Home** menu was taken from [Besthq wallpapers](http://
 
 *   The **Menu** was created on [canva](http://www.canva.com)
 
-    Link to the menu [Menu](https://www.canva.com/design/DAEVK9Qynis/lEs6er7acvvIIMO3tktnAA/edit)
+    Link to the [Menu](https://www.canva.com/design/DAEVK9Qynis/lEs6er7acvvIIMO3tktnAA/edit)
 
     The idea to create the menu came from the \* The project Rosie\*
 
@@ -212,6 +212,10 @@ The source code came from [W3 schools](https://w3schools.com)
 
 
 ### The footer
+
+The source code for the _footer_ came from the lesson _Project Rosie_ .
+
+<img src="assets/source/footer.JPG">
 
 ## Tech used
 * HTML 
@@ -283,10 +287,13 @@ The source code came from [W3 schools](https://w3schools.com)
 ## Bug
 Error 304 and 404 on my workspace.I googled what is this for code. After I deleled the browser historic.
 
-w3 css error: Too many values or values are not recognized.
+After running the [Validator](https://validator.w3.org/) I got the following errors: 
+
+css error: Too many values or values are not recognized.
 
 <img src="assets/source/Error.JPG">
 
 I removed the _solid #fff_
 
+Poor values of _Alt_ on the images. I gave the images the correct value.
 
