@@ -184,7 +184,7 @@ All the images from the **Home** menu was taken from [Besthq wallpapers](http://
 
 *   I used _carousel slide_ to decorate the page. The source code came from Bootsrap:
 
-    !<img src="assets/source/carousel-slide.JPG">
+    <img src="assets/source/carousel-slide.JPG">
 
     All the images on this page were taken from [pixabay](http://www.pixabay.com)
 
@@ -207,7 +207,7 @@ All the images from the **Home** menu was taken from [Besthq wallpapers](http://
 
 The source code came from [Bootsrap](https://getbootstrap.com)
 
-!<img src="assets/source/tables.JPG">
+<img src="assets/source/tables.JPG">
           
 
 
