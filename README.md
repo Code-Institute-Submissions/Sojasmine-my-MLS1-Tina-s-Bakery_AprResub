@@ -47,6 +47,16 @@
 #### As a returning customer:
 ### Structure of the website
 ### Wireframes
+I used balsamiq wireframe for drawing.
+
+[wireframes](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:638665fa-2685-42b6-9a2d-8d3980332562)
+
+
+
+
+
+
+
 ### Surface
 #### Colors
 #### Fonts
@@ -159,11 +169,7 @@ The images were obtained from:
 
 * Logo for the **Navbar**. The logo is applied on all the menu-bar.
 
-  
-
-  [The logo](https://editor.freelogodesign.org/?lang=en&logo=3613cf6a-7633-4fee-8871-8837207f6954)
-
-   
+   * [The logo](https://editor.freelogodesign.org/?lang=en&logo=3613cf6a-7633-4fee-8871-8837207f6954)
 
 * **Home** images: 
 
@@ -257,7 +263,6 @@ The images were obtained from:
 
     * [cake 17](https://besthqwallpapers.com/sv/mat/korn-kaffe-frukost-v%C3%A4xande-608)
 
-    
 * Content: 
    * After speaking with my mentor about my idea, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) for source of inspiration.
 # 7. License
