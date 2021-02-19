@@ -99,7 +99,7 @@ I used balsamiq wireframe for drawing.
  #### Google Fonts
  * As a font resource
  #### Github
- * As a code hosting plattform to store the project, the README.md file and to add, commit and push. 
+ * As a code hosting plattform to store the project, the README file and to add, commit and push. 
  
  #### Gitpod
  * As the main source to create the project.
