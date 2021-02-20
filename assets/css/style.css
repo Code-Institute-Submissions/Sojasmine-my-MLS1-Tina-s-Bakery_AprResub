@@ -125,26 +125,19 @@ p {
 
 .card {
     position: relative;
-    display: flex;
+    display: block;
     flex-direction: column;
-    width: 100px;
+    width: 100%;
+    margin: 79px;
     background-color: #fff;
     background-clip: border-box;
     border: 1px solid rgba(0,0,0,.125);
     border-radius: .15rem;
     padding: 3px;
     box-shadow: 0 8px 6px -5px rgb(0, 0, 0, 75%);
-    margin: 79px;
+}
+
   
-    
-}
-
-
-.column {
-    float: left;
-    width: auto;
-}
-
 
 /*-------------------Table*/
 
@@ -184,8 +177,5 @@ footer p {
     border-radius: 50%;
     font-size: 14px;
     color: #ff00ff;
-   
-    
-
 }
 
