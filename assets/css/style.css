@@ -83,14 +83,12 @@ h3,br {
 
 h5 {
     color: #0000ff;
-    background-color: white;
+ 
 }
 .inline-block a {
     text-align: center;
 }
 /*-------------------Images*/ 
-
-
 
 img {
     display: block;
@@ -121,6 +119,7 @@ img {
     margin-left: auto;
    
 }
+
 /*-------------------Paragraph*/
 
 p {
@@ -152,7 +151,7 @@ p {
 /*-------------------Button*/
 
 .button {
-  background-color: blue; 
+  background-color: lightblue; 
   border: none;
   color: white;
   padding: 5px 10px;
@@ -165,11 +164,10 @@ p {
   cursor: pointer;
 }
 
-
 .button1 {
   background-color: white; 
   color: black; 
-  border: 2px solid #008CBA;
+  border: 2px solid rgb(203, 227, 235);
 }
 
 .button1:hover {
@@ -207,6 +205,7 @@ footer p {
 }
 
 /*-------------------Social links*/
+
 .social-links li a i {
     width: 30px;
     height: 30px;
