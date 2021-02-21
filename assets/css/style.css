@@ -133,9 +133,12 @@ p {
     text-align: center;
 }
 
+
+/*-------------------Container*/
 .container {
     background-color: violet;
 }
+
 /*-------------------Cards*/
 
 .card {
@@ -195,6 +198,9 @@ form {
     background-color: rgb(237, 222, 241);
 }
 
+.btn-primary {
+    color: black;
+}
 /*-------------------Footer*/
 
 footer {
