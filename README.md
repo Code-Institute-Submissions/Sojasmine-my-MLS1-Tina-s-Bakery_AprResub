@@ -38,7 +38,11 @@ ___
 
 # 1. UX
 ### Website owner business goals
-This website is a great opportunity for the owner to be seen online. The customers can place orders at anytime. This webiste allows the owner to reach the target group and the market.
+This website is a great opportunity for the owner to be seen online. The customers can place orders at anytime.
+
+This webiste allows the owner to reach the target group and the market.
+
+The user get the best possible visitor experience.
 ### User goals
 ___
 #### New user goals:
@@ -48,14 +52,14 @@ ___
  * User is able to choose a delivery date.
  * User can write an additional request.
  * User can visit and eat at the shop.
+ * Customers recommend us to new customers
 #### Returning user goals:
  * User can find new products with new theme.
  * User can navigate easily on the site.
  * User can get discount.
  * User can come with their wishes.
  * User can write a review.
- * I hope that the customers will come back.
- * User can come with new customers. 
+ 
 ### User stories
 ___
 #### As a business owner:
@@ -64,6 +68,7 @@ ___
  * I want to give satisfaction to my customers from their additional request and their special order.
  * I want the customers to be able to design or upload their requests.
  * I want to give my customers compensation or discounts if problem occured. 
+ * I hope that the customers will come back with a new order.
  * I want to deliver the orders on time.
  * I wish that nothing happen during the transport delivery time.
 #### As a new customer:
@@ -169,7 +174,7 @@ The footer contains the copyright information and social links which connect web
 * Poosibility to pay with the bankcards and credits cards som VISA, mastercard and other cards. 
 * Details of all ingredients under the product names.
 * Add a popovers 
-
+___
 # 3. Technology
  #### HTML5
  
@@ -196,28 +201,23 @@ The footer contains the copyright information and social links which connect web
 #### Functionality Testing
  I used W3 validator to check and find _error_ or _issues_ on the HTML code and CSS.
  Chrome developer used to check the performance of the site.
-
-[Am I Responsive] used for testing the site on all devices such as **desktop**, **tablet** , **mobile** and **laptop**
-
-I did all work on **Google Chrome**. 
-I tested with different devices such us: Motorola 6, Ihpone 8, Lenovo Thinkpad, MSI Laptop.
-
-
 #### Compatibility Testing
-The site was tested by following browser: 
+[Am I Responsive](http://ami.responsivedesign.is/) used for testing the site on all devices such as **desktop**, **tablet** , **mobile** and **laptop**
+
+The website was tested with different devices such us: Motorola 6, Ihpone 8, Lenovo Thinkpad, MSI Laptop.
+
+The site was runned by following browsers: 
 * Google chrome
 * Opera
 * Firefox
 * Microsoft edge
-
-Iphone bla bla bla was used to test-
-
 #### Issues and bugs by emplenting this site
+
 #### Performance Testing
 (add a screenshot here)
 #### Code validation
 
-https://jigsaw.w3.org/css-validator/
+[w3 validator](https://jigsaw.w3.org/css-validator/)
 
 # 5. Deployment
 # 6. Credits
@@ -238,6 +238,8 @@ https://jigsaw.w3.org/css-validator/
 
   * [stackoverflow](https://stackoverflow.com/)
 
+  * [Google chrome](https://chrome.google.com/)
+  
 
 #### Code
 
@@ -365,21 +367,7 @@ The images were obtained from:
 
 
 
-     ### What is this website for?
-
-As a first time visitor this webiste help customers to be able to make cakes and pastries orders online, on the phone or by sending an e-mail. 
-As a regular visitor, customers will be able to purchase an order or may be find new information about new products on new event.
-
-### What does it do?
-
-This webiste provides various pages for customers to read lots of information about cakes and pastries. 
-The website shows different kinds of products to choose. As customers, they can fill  the order form by ordering their own special requirements of what they want with require delivery date. 
-There is a possibility to upload file or picture for special order. The customers are also very welcome to visit the shop for coffee, breakfast or lunch. 
-
-
-### How does it work?
-By creating the website, *bootsrap 4* and *Javascript* has been used and some simple *HTML code*. *CSS* to style the website.
-
+     
  * The code for navbar was taken from bootsrap. I added more nav-items on the link and changed the description.
 
 ![navbar](assets/images/navbarmenu.JPG)
@@ -409,34 +397,19 @@ background-image: linear-gradient(purple, pink, white);}`
 
 <img src="assets/source/carousel.JPG">
 
- The image was taken from 
 
 
 
-The code source used for all the images on **Menu, cakes, and bread** from bootsrap is below: 
-
-<img src="assets/source/cards.JPG">
 
 
-####    Menu
 
-*   The **Menu** was created on [canva](http://www.canva.com)
 
-   
 
    
 
     
 
-####    About
 
-*   I used _carousel slide_ to decorate the page. The source code came from Bootsrap:
-
-    <img src="assets/source/carousel-slide.JPG">
-
-    All the images on this page were taken from 
-
-    
 
    
 
@@ -449,41 +422,12 @@ The code source used for all the images on **Menu, cakes, and bread** from boots
 
     
         
-####    Contact
+
 
 *    I used the table-dark method for the contact information.
 
 The source code came from [W3 schools](https://w3schools.com)
 
-<img src="assets/source/table.JPG">
-
-
-Open | Address | Email
----- | --------| -----
-Weekaday: 07:00 to 17:00 | Tallvägen 24, 454 30 Brastad | tina@bakery.se
-
-
-### The footer
-
-The source code for the _footer_ came from the lesson _Project Rosie_ .
-
-<img src="assets/source/footer.JPG">
-
-
-The _copyright_ symbol I found at [W3 schools](https://www.w3schools.com)
-
-<img src="assets/source/copyright.JPG">
-
-
-
-
-
-## Sources
-
- 
-
- 
- 
 
 
 
