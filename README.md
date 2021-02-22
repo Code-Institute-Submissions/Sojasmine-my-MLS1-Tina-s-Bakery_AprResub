@@ -1,13 +1,13 @@
 # Tina's Bakery Portofolio website
 ## User-Centric Frontend Development Milestone Project
 
- (picture from all the desktop)
+ ![webiste](assets/source/website.jpg)
  
- Tina's Bakery is a family owned company that bakes and sells cakes, breads, buns, pastries and the other confectionery products. 
- As a user you can order baking and confectionery products online by filling the contact information. 
- This is a way to help the user to find out what range of bakes the bakery has to offer their customers. 
- Users can also visit Tina's bakery to buy freshly baked products and have a good coffee with freshly brewed coffee. The bakery is a shop for all, even for those who are gluten or lactose intolerant. They accept all orders, small or large for any event. 
-  
+ This website is about **Tina's Bakery** a family owned company that bakes and sells cakes, breads, buns, pastries and the other confectionery products. 
+ As a user you can order baking and confectionery products online by filling the contact information or by making a call.
+ This website is a way to help the user to find out what range of bakes the bakery has to offer their customers. 
+ Users can also visit Tina's bakery to buy freshly baked products and have a good coffee with freshly brewed coffee. 
+___
 
 ## Table of Contents
 1. UX
@@ -38,34 +38,100 @@
 
 # 1. UX
 ### Website owner business goals
+This website is a great opportunity for the owner to be seen online. The customers can place orders at anytime. This webiste allows the owner to reach the target group and the market.
 ### User goals
+___
 #### New user goals:
+ * User can easily find several options about their pastries products.The pastries include images, description and prices.
+ * User can use the contact form to fulfill order.
+ * User can design their own wishes by adding a file.
+ * User is able to choose a delivery date.
+ * User can write an additional request.
+ * User can visit and eat at the shop.
 #### Returning user goals:
+ * User can find new products with new theme.
+ * User can navigate easily on the site.
+ * User can get discount.
+ * User can come with their wishes.
+ * User can write a review.
+ * I hope that the customers will come back.
+ * User can come with new customers. 
 ### User stories
-#### As abusiness owner:
-#### As a nwe customer:
+___
+#### As a business owner:
+ * I want to make sure that my customers can easily navigate on the website without problem.
+ * I would like my customers to be able to find what are they looking for.
+ * I want to give satisfaction to my customers from their additional request and their special order.
+ * I want the customers to be able to design or upload their requests.
+ * I want to give my customers compensation or discounts if problem occured. 
+ * I want to deliver the orders on time.
+ * I wish that nothing happen during the transport delivery time.
+#### As a new customer:
+ * I wish that I can find what I am looking for.
+ * I hope I can use my present card.
+ * I wish that it is not complicated to purchase an order.
+ * I wish that I can ask for help if I need it.
+ * I hope that I can get my order on time.
+ * I hope that it is tasty as it looks like. 
+ * I hope that it is perfect and nice as the images.
+ * I hope it is not that expensive.
+ * I wish the stuff and personal are helpful and nice. 
+ * I hope that they understand my needs.
 #### As a returning customer:
+ * I wish that I can find my favorites.
+ * I hope they have something new and interesting to offer.
+ * I wish I can get discount.
 ### Structure of the website
+This is a responsive website which works on all type of devices.
+The majority of visitors can quickly find what they want, in an interactive or creative way.
+The navigation menu is a great tool for the user to navigate the website easily.
+___
 ### Wireframes
-I used balsamiq wireframe for drawing.
+I used balsamiq wireframe for skeleton.
 
-[wireframes](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:aa5ec849-de2b-4097-b511-931511fff4c1)
-
-
-
-
-
-
+[My wireframes](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:e59c686c-b3a7-43a9-ad4d-9adced2a7ffb)
+___
 
 ### Surface
+
 #### Colors
+Colors used on the project: 
+ * body:  
+     * rgb(230, 231, 231)
+ * Menu-bar: 
+     * linear-gradient(purple, pink, white)
+ * Nav-link:
+     * color: hsl(120, 3%, 8%)
+     * hover: background-color: #fff
+ * h2, h3, h4, h6: 
+     * darkorchid
+ * h5: #0000ff
+ * container and cards: 
+     * #ffccff
+ * button, button1, button hover 
+     * lightblue
+     * white
+     * #cce6ff
+ * tables: 
+     * rgb(199, 225, 241)
+ * forms: 
+     * rgb(237, 222, 241)
+* footer, footer p: 
+     * aquamarine
+     * #990099
+* social links: 
+     * #ff00ff
 #### Fonts
+* I used Poppins, Arial and sans-serif.
 #### Images
-
-
+* The images was borrowed from [Canva](http://www.canva.com), [Pixabay](http://www.pixabay.com) and [Besthqwallpapers](http://besthqwallpapers.com).
+___
 # 2. Features
+ The website contains 7 pages. The navigation **Menu** linked to an pdf file which open to a separate window.
 ### Navigation bar
-* The menu contains 7 pages: 
+ The navigation is placed on the left upper corner of the page. It is a responsive navigation bar, that works on all devices. 
+
+* The navigation bar contains 7 pages and a logo on the right side: 
      * Home
      * Cakes
      * Bread
@@ -75,16 +141,34 @@ I used balsamiq wireframe for drawing.
      * Contact
 
 ### Footer
+The footer contains the copyright information and social links which connect webpages to a separate tab in a browser. The footer appear in all pages.
 #### Home
+* The homepage includes two images section. 
+ * 1 image for decoration of the first section.  
+ * 4 images represent the bakery's customers favorite cakes and pastries with descritpion and prices.
 #### Cakes
+* This page contains 12 images that are divided into different categories: 
+ * 4 images for the _wedding cakes_ category
+ * 4 images for the _Birthday cakes_ category
+ * 4 images for the _Valentine's day cakes_ category
 #### Bread
+* This pages contains iamges of different kinds of breads with description and prices.
 #### Gallery
+* This pages contains 10 different kinds of pastries and cakes images.
 #### Menu
+* The menu page contains only a _Menu_ on pdf. 
 #### About
+* This pages sontains thre section.
+ * First section describe a lot of information about Tina's bakery.
+ * Second section contains _carousel_ with three images.
 #### Contact
+* This page contains an image, phone number, address, email and an order form. User can purchase order by filling this form.
 ### Future implementations
 
-
+* Improve the quality of the website by adding a _Cart_ for direct order.
+* Poosibility to pay with the bankcards and credits cards som VISA, mastercard and other cards. 
+* Details of all ingredients under the product names.
+* Add a popovers 
 
 # 3. Technology
  #### HTML5
@@ -103,14 +187,20 @@ I used balsamiq wireframe for drawing.
  
  #### Gitpod
  * As the main source to create the project.
+ #### Git
+ * As a version -control system tracking.
  #### Wireframe
  * Balsamiq wireframes for the skeletal framework tool.
  #### 
 # 4. Testing
 #### Functionality Testing
  I used W3 validator to check and find _error_ or _issues_ on the HTML code and CSS.
+ Chrome developer used to check the performance of the site.
 
- ami.responsivedesing.information for testing the site on all devices.
+[Am I Responsive] used for testing the site on all devices such as **desktop**, **tablet** , **mobile** and **laptop**
+
+I did all work on **Google Chrome**. 
+I tested with different devices such us: Motorola 6, Ihpone 8, Lenovo Thinkpad, MSI Laptop.
 
 
 #### Compatibility Testing
@@ -282,7 +372,7 @@ As a regular visitor, customers will be able to purchase an order or may be find
 
 ### What does it do?
 
-This webiste provides various pages for customers to read lots of information about cakes and pastries. The navigation menu is a great tool to navigate easily through the website.
+This webiste provides various pages for customers to read lots of information about cakes and pastries. 
 The website shows different kinds of products to choose. As customers, they can fill  the order form by ordering their own special requirements of what they want with require delivery date. 
 There is a possibility to upload file or picture for special order. The customers are also very welcome to visit the shop for coffee, breakfast or lunch. 
 
