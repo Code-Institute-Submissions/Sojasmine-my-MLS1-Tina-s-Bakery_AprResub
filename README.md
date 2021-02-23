@@ -3,7 +3,7 @@
 
  ![webiste](assets/source/website.jpg)
 
- ![website](assets/source/screenshot.jpg)
+ ![website](assets/source/screenshot1.jpg)
  
  This website is about **Tina's Bakery** a family owned company that bakes and sells cakes, breads, buns, pastries and the other confectionery products. 
  As a user you can order baking and confectionery products online by filling the contact information or by making a call.
@@ -13,11 +13,11 @@ ___
 
 ## Table of Contents
 1. UX
-    * Website owner business goals
-    * User goals
-       * New user goals
-       * Returning user goals
-       * Website owner business goals
+    * Site owner business objective
+    * User objective
+       * New user objective
+       * Returning user objective
+       * Site owner business objective
     * User stories
     * Structure of the website
     * Wireframes
@@ -39,15 +39,15 @@ ___
 1. Contact
 
 # 1. UX
-### Website owner business goals
+### Site owner business objective
 This website is a great opportunity for the owner to be seen online. The customers can place orders at anytime.
 
 This webiste allows the owner to reach the target group and the market.
 
 The user get the best possible visitor experience.
-### User goals
+### User objective
 ___
-#### New user goals:
+#### New user objective:
  * User can easily find several options about their pastries products.The pastries include images, description and prices.
  * User can use the contact form to fulfill order.
  * User can design their own wishes by adding a file.
@@ -55,7 +55,7 @@ ___
  * User can write an additional request.
  * User can visit and eat at the shop.
  * Customers recommend us to new customers
-#### Returning user goals:
+#### Returning user objective:
  * User can find new products with new theme.
  * User can navigate easily on the site.
  * User can get discount.
@@ -64,7 +64,7 @@ ___
  
 ### User stories
 ___
-#### As a business owner:
+#### As a site owner:
  * I want to make sure that my customers can easily navigate on the website without problem.
  * I would like my customers to be able to find what are they looking for.
  * I want to give satisfaction to my customers from their additional request and their special order.
@@ -273,7 +273,7 @@ To deploy the Githubpages, I used the following steps:
   * Click on ** use this template** and create my repository. 
   * [Repository name](https://github.com/Sojasmine/my-MLS1-Tina-s-Bakery)
   * From the settings, under the GithHub Pages, I choose **master** branch and clicked the save button.
-  * My github page is published at [site name](/)
+  * My github page is published at [site name](https://sojasmine.github.io/my-MLS1-Tina-s-Bakery/)
   * Back on the top of my repository pages, beside the green _gitpod_ button. I wrote a short description about my project linked in with my github page. I added Tina's Bakery as **topics**.
 
 Forking is a making a copy of the repository:
@@ -311,18 +311,14 @@ Clone a repository:
   
 
 #### Code
-* [Logo]()
-* [Hamburger menu]()
-* W3s chools[Color of the navigation menu](https://www.w3schools.com/cssref/func_linear-gradient.asp)
-* [Cards]()
-* [Jumbotron]()
-* [Forms]()
-* W3 schools:[emoJI](https://www.w3schools.com/charsets/ref_emoji.asp)
-* [Symbols]()
-* [Calender]()
-* [Carousel]()
-* [Image fluid]()
-* [Footer or Inline Item]()
+* Bootsrap: [Hamburger menu](https://getbootstrap.com/docs/4.2/components/navbar/)
+* W3s chools: [Color of the navigation menu](https://www.w3schools.com/cssref/func_linear-gradient.asp)
+* Bootstrap: [Cards](https://getbootstrap.com/docs/4.2/components/card/)
+* W3 schools: [Jumbotron](https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_jumbotron&stacked=h)
+* Bootstrap: [Forms](https://getbootstrap.com/docs/4.2/components/forms/)
+* W3 schools: [emoJI](https://www.w3schools.com/charsets/ref_emoji.asp)
+* W3 schools: [Symbols](https://www.w3schools.com/html/html_symbols.asp)
+* Bootstrap: [Carousel](https://getbootstrap.com/docs/4.2/components/carousel/)
 
 #### Images
 
@@ -344,7 +340,9 @@ The images were obtained from:
 
 * **Home** images: 
 
-   * [link to the image](https://www.canva.com/design/DAEVTbZ9BeI/zhHGLaLkkw5lKy2EeM2XTw/edit)
+   * [link to the image](https://besthqwallpapers.com/sv/semester/alla-hj%C3%A4rtans-dag-14-februari-cupcake-t%C3%A5rta-med-lila-gr%C3%A4dde-hj%C3%A4rtat-40269)
+
+   * [birthday deluxe](https://besthqwallpapers.com/sv/semester/grattis-p%C3%A5-f%C3%B6delsedagen-t%C3%A5rta-med-ljus-t%C3%A5rta-ljus-17303)
 
    * [cheese cake deluxe](https://besthqwallpapers.com/sv/mat/choklad-kaka-b%C3%A4r-choklad-bl%C3%A5b%C3%A4r-choklad-cheesecake-49979)
 
@@ -454,11 +452,7 @@ ___
 
 ![navbar](assets/images/navbarmenu.JPG)
 
-   * I used *linear gardient* as the background color for the navbar.
-    
-I found the code on [w3 schools](http://w3schools.com) 
-ink to the source code (https://www.w3schools.com/cssref/func_linear-gradient.asp)
-
+   
 
 
 
