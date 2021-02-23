@@ -212,6 +212,30 @@ The site was runned by following browsers:
 * Firefox
 * Microsoft edge
 #### Issues and bugs by emplenting this site
+* Error 304 and 404 on my workspace.I googled what is this for code. After I deleled the browser historic everything work fine again.
+* After running the [W3 Validator](https://validator.w3.org/) I got the following errors: 
+
+css error: Too many values or values are not recognized.
+
+<img src="assets/source/Error.JPG">
+
+I removed the line to fix the problem.
+
+* Poor values of _Alt_ on the images. I gave the images the correct value.
+* The contact information form with the address, email and opening hours looks very big on a mobile device so I changed the source code to: 
+* After running performance those issues appeared: 
+
+  <img src="assets/source/error2.JPG">
+
+  I soLved the problem by changing the image into _jpg_ and resized the images by using [compressor](https://compressor.io/)
+
+  <img src="assets/source/social_links.JPG">
+  
+   I solved it by adding `<a rel="noreferrer" target="_blank" href="#">` for the social links.
+
+   <img src="assets/source/text.jpg">
+
+   I resized the DOM size.
 
 #### Performance Testing
 (add a screenshot here)
@@ -432,16 +456,9 @@ The source code came from [W3 schools](https://w3schools.com)
 
 
 ## Bug
-Error 304 and 404 on my workspace.I googled what is this for code. After I deleled the browser historic.
 
-After running the [Validator](https://validator.w3.org/) I got the following errors: 
 
-css error: Too many values or values are not recognized.
 
-<img src="assets/source/Error.JPG">
 
-I removed the _solid #fff_
-
-Poor values of _Alt_ on the images. I gave the images the correct value.
 
  
