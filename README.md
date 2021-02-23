@@ -2,6 +2,8 @@
 ## User-Centric Frontend Development Milestone Project
 
  ![webiste](assets/source/website.jpg)
+
+ ![website](assets/source/screenshot.jpg)
  
  This website is about **Tina's Bakery** a family owned company that bakes and sells cakes, breads, buns, pastries and the other confectionery products. 
  As a user you can order baking and confectionery products online by filling the contact information or by making a call.
@@ -94,7 +96,7 @@ ___
 ### Wireframes
 I used balsamiq wireframe for skeleton.
 
-[My wireframes](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:e59c686c-b3a7-43a9-ad4d-9adced2a7ffb)
+[View the wireframe here](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:e59c686c-b3a7-43a9-ad4d-9adced2a7ffb)
 ___
 
 ### Surface
@@ -174,12 +176,14 @@ The footer contains the copyright information and social links which connect web
 * Poosibility to pay with the bankcards and credits cards som VISA, mastercard and other cards. 
 * Details of all ingredients under the product names.
 * Add a popovers 
+* User rating system and experience of our products.
 ___
 # 3. Technology
  #### HTML5
  
- #### CSS
+ #### css3_pr_text
  * Css used to style the site
+ * css gradient used to create the background color of the menu-bar.
 
  #### Bootstrap
  * Bootsrap version 4.2.1 
@@ -194,15 +198,23 @@ ___
  * As the main source to create the project.
  #### Git
  * As a version -control system tracking.
- #### Wireframe
- * Balsamiq wireframes for the skeletal framework tool.
- #### 
+ #### Balsamiq
+ *  a wireframe to create the desktop and mobile wireframe.
+ #### W3 Validator
+[w3 Jigsaw](https://jigsaw.w3.org/css-validator/) to validate CSS.
+
+[W3C Validator](https://validator.w3.org/)to check HTML
+
+[Am I Responsive](http://ami.responsivedesign.is/) tool for previewing the site on different devices.
+ ___
 # 4. Testing
 #### Functionality Testing
- I used W3 validator to check and find _error_ or _issues_ on the HTML code and CSS.
+ * I used W3 validator to check and find _error_ or _issues_ on the HTML code and CSS.
+   * Result after running the final test om W3 HTML: 
+   * Result after running the final check on W3 CSS: 
  Chrome developer used to check the performance of the site.
 #### Compatibility Testing
-[Am I Responsive](http://ami.responsivedesign.is/) used for testing the site on all devices such as **desktop**, **tablet** , **mobile** and **laptop**
+[Am I Responsive](http://ami.responsivedesign.is/) used to generate the site images on all devices such as **desktop**, **tablet** , **mobile** and **laptop**
 
 The website was tested with different devices such us: Motorola 6, Ihpone 8, Lenovo Thinkpad, MSI Laptop.
 
@@ -251,12 +263,35 @@ I removed the line to fix the problem.
   
 #### Code validation
 
-[w3 validator](https://jigsaw.w3.org/css-validator/)
+[w3 Jigsaw](https://jigsaw.w3.org/css-validator/) to validate CSS.
 
+[W3C Validator](https://validator.w3.org/)to check HTML
+___
 # 5. Deployment
+To deploy the Githubpages, I used the following steps: 
+  * Before creating the repository, I used [Code institute student full templalte link](https://github.com/Code-Institute-Org/gitpod-full-template).
+  * Click on ** use this template** and create my repository. 
+  * [Repository name](https://github.com/Sojasmine/my-MLS1-Tina-s-Bakery)
+  * From the settings, under the GithHub Pages, I choose **master** branch and clicked the save button.
+  * My github page is published at [site name](/)
+  * Back on the top of my repository pages, beside the green _gitpod_ button. I wrote a short description about my project linked in with my github page. I added Tina's Bakery as **topics**.
+
+Forking is a making a copy of the repository:
+
+ Steps to fork the Githug Repository
+  * Log in into your Github account
+  * Find the Github repository with you'd like to fork.
+  * Go to the top of the repository page [here](https://github.com/Sojasmine/my-MLS1-Tina-s-Bakery).
+  * Click the Fork button on the upper right-hand side under your profile photo.
+  * Now, you have the copy of the repository on your Github account.
+Clone a repository:
+  * You have to determine the URL for the forked repository before you can _clone it_ 
+  * Copy the URL an then use it with *git clone*
+  * Remember that it is the copy you have to clone not the original repository
+  
 # 6. Credits
 
-* These websites were great help for me duringg the project: 
+* These websites were great help for me during this project: 
 
   * [W3 schools](https://www.w3schools.com)
 
@@ -276,8 +311,18 @@ I removed the line to fix the problem.
   
 
 #### Code
-
-(links or image to all the code I use)
+* [Logo]()
+* [Hamburger menu]()
+* W3s chools[Color of the navigation menu](https://www.w3schools.com/cssref/func_linear-gradient.asp)
+* [Cards]()
+* [Jumbotron]()
+* [Forms]()
+* W3 schools:[emoJI](https://www.w3schools.com/charsets/ref_emoji.asp)
+* [Symbols]()
+* [Calender]()
+* [Carousel]()
+* [Image fluid]()
+* [Footer or Inline Item]()
 
 #### Images
 
@@ -391,9 +436,12 @@ The images were obtained from:
 
 * Content: 
    * After speaking with my mentor about my idea, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) for source of inspiration.
+   ___
 # 7. License
    * No license needed. All the images are free.
+   ___
 # 8. Screenshot
+___
 # 9. Contact
    * Author: Sojasmine Gjerstad. Student at Code Intsitute,2021.
 
@@ -411,25 +459,12 @@ The images were obtained from:
 I found the code on [w3 schools](http://w3schools.com) 
 ink to the source code (https://www.w3schools.com/cssref/func_linear-gradient.asp)
 
-The color I choose for the background is : 
-
-`.menu-bar {
-background-image: linear-gradient(purple, pink, white);}`
-
----
-   
 
 
 
-*   The header `<h3>Beautiful deluxe baked goods</h3>` was styled with \* text-shadow\* 
 
-    `text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;`
-    source from [w3 schools](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp)
 
-    <img src="assets/source/text-shadow.JPG">
-*    The source code for _image carousel slide only_ was taken from boostrap.
 
-<img src="assets/source/carousel.JPG">
 
 
 
@@ -449,23 +484,15 @@ background-image: linear-gradient(purple, pink, white);}`
 
     
         
-         
-*   I decorated the pages under the \*customer's review\* with some emoijs taken from [w3 schools](http://www.w3schools.com)
-
-    Link to the [emoij](https://www.w3schools.com/charsets/ref_emoji.asp)
-
+  
     
         
 
 
-*    I used the table-dark method for the contact information.
-
-The source code came from [W3 schools](https://w3schools.com)
 
 
 
 
-## Bug
 
 
 
