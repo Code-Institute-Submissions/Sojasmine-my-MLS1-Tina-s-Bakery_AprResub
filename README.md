@@ -246,6 +246,9 @@ I removed the line to fix the problem.
 
  I shortened the text from *we accept all orders, large or small, standard or special . We will do our best to satisfy our customers* 
   to  *Fill the form below*
+
+  <img src="assets/source/performance4.jpg">
+  
 #### Code validation
 
 [w3 validator](https://jigsaw.w3.org/css-validator/)
