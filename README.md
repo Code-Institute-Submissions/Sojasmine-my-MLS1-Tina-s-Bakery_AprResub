@@ -223,6 +223,11 @@ I removed the line to fix the problem.
 
 * Poor values of _Alt_ on the images. I gave the images the correct value.
 * The contact information form with the address, email and opening hours looks very big on a mobile device so I changed the source code to: 
+
+
+#### Performance Testing
+<img src="assets/source/performance.jpg">
+
 * After running performance those issues appeared: 
 
   <img src="assets/source/error2.JPG">
@@ -236,9 +241,11 @@ I removed the line to fix the problem.
    <img src="assets/source/text.jpg">
 
    I resized the DOM size.
+ 
+ <img src="assets/source/performance2.jpg">
 
-#### Performance Testing
-(add a screenshot here)
+ I shortened the text from *we accept all orders, large or small, standard or special . We will do our best to satisfy our customers* 
+  to  *Fill the form below*
 #### Code validation
 
 [w3 validator](https://jigsaw.w3.org/css-validator/)
