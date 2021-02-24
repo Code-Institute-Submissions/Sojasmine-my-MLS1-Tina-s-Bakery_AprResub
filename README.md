@@ -72,7 +72,6 @@ ___
  * I want to give my customers compensation or discounts if a problem occurred. 
  * I hope that the customers will come back with a new order.
  * I want to deliver the orders on time.
- * I wish that nothing happen during the transport delivery time.
 #### As a new customer:
  * I wish that I can find what I am looking for.
  * I hope I can use my present card.
@@ -90,7 +89,7 @@ ___
  * I wish I can get a discount.
 ### Structure of the website
 This is a responsive website which works on all type of devices.
-The majority of visitors can quickly find what they want, interactivelt or creatively way.
+The majority of visitors can quickly find what they want, interactively or creatively way.
 The navigation menu is a great tool for the user to navigate the website easily.
 ___
 ### Wireframes
@@ -177,6 +176,7 @@ The footer contains the copyright information and social links which connect web
 * Details of all ingredients under the product names.
 * Add a popovers 
 * User rating system and experience of our products.
+* Add another page where customers can order **present cards**
 ___
 # 3. Technology
  #### HTML5
@@ -206,7 +206,7 @@ ___
 [W3C Validator](https://validator.w3.org/)to check HTML
 
 [Am I Responsive](http://ami.responsivedesign.is/) tool for previewing the site on different devices.
- ___
+___
 # 4. Testing
 #### Functionality Testing
  * I used the W3 validator to check and find _error_ or _issues_ on the HTML code and CSS.
@@ -216,7 +216,7 @@ ___
    Document checking completed. No errors or warning to show.
 
 * Chrome developers used to check the performance of the site.
-
+___
 #### Compatibility Testing
 [Am I Responsive](http://ami.responsivedesign.is/) used to generate the site images on all devices such as **desktop**, **tablet** , **mobile** and **laptop**
 
@@ -227,6 +227,7 @@ The site was run by the following browsers:
 * Opera
 * Firefox
 * Microsoft edge
+___
 #### Issues and bugs by emplenting this site
 * Error 304 and 404 on my workspace. I googled what is this for code. After I deleled the browser history everything works fine again.
 * After running the [W3 Validator](https://validator.w3.org/) I got the following errors: 
@@ -246,9 +247,10 @@ The site was run by the following browsers:
  <img src="assets/source/error3.jpg">
 
   > I added heading elements between the sections.
+
   ` <h3>Call us: Tel 0523-40 466</h3> ` and ` <h6>Fill the order form below</h6> ` 
 
-
+___
 #### Performance Testing
 <img src="assets/source/performance.jpg">
 
@@ -277,10 +279,41 @@ The site was run by the following browsers:
 
   Final result of performance: 
 
-  <img src="assets/source/performance4.jpg">
+  <img src="assets/source/performance6.jpg">
 
   
-  
+___ 
+#### User storie testing
+##### As a site owner:
+* I want to make sure that my customers can easily navigate the website without a problem.
+> Customers can use the navigation bar to search through the site.
+* I would like my customers to be able to find what are they looking for.
+> Multiple choices of images will help customers through their purchasing.
+* I want to give satisfaction to my customers from their additional request and their special order.
+> Customers can find information about the _additiomal request_ on the contact page. Customers can easily fill in the request field.
+* I want the customers to be able to design or upload their requests.
+> The possibility to send and upload customer's file or picture can easily be done by filling in the order form.
+* I hope that the customers will come back with a new order.
+> Customers can make new orders by surfing on the home page, cakes page, and bread page.
+* I want to deliver the orders on time.
+> By choosing a date on the calendar on the contact form, customers can get their orders on time.
+##### As a new customer:
+* I wish that I can find what I am looking for.
+> More information can new customers find on all pages.
+* I wish that it is not complicated to purchase an order.
+* I wish that I can ask for help if I need it.
+> Use the contact information by making a call, sending an email, fill the form, or by coming for visit to the shop.
+* I hope that I can get my order on time.
+* I hope that it is tasty as it looks like.
+* I hope that it is as perfect and nice as the images.
+* I hope it is not that expensive.
+* I wish the staff and personal are helpful and nice.
+* I hope that they understand my needs.
+##### As a returning customer:
+* I wish that I can find my favorites.
+* I hope they have something new and interesting to offer.
+* I wish I can get a discount.
+___
 #### Code validation
 
 [w3 Jigsaw](https://jigsaw.w3.org/css-validator/) to validate CSS.
@@ -308,7 +341,7 @@ Clone a repository:
   * You have to determine the URL for the forked repository before you can _clone it_ 
   * Copy the URL and then use it with *git clone*
   * Remember that it is the copy you have to clone not the original repository.
-  
+___
 # 6. Credits
 
 * These websites were a great help for me during this project: 
@@ -329,7 +362,7 @@ Clone a repository:
 
   * [Google chrome](https://chrome.google.com/)
   
-
+___
 #### Code
 * Bootstrap: [Hamburger menu](https://getbootstrap.com/docs/4.2/components/navbar/)
 * W3s chools: [Color of the navigation menu](https://www.w3schools.com/cssref/func_linear-gradient.asp)
@@ -339,7 +372,7 @@ Clone a repository:
 * W3 schools: [emoJI](https://www.w3schools.com/charsets/ref_emoji.asp)
 * W3 schools: [Symbols](https://www.w3schools.com/html/html_symbols.asp)
 * Bootstrap: [Carousel](https://getbootstrap.com/docs/4.2/components/carousel/)
-
+___
 #### Images
 
 The images were obtained from: 
@@ -351,7 +384,6 @@ The images were obtained from:
 [Besthq wallpapers](http://besthqwallpapers.com)
 
 [pixabay](http://www.pixabay.com)
-
 
 
 * Logo for the **Navbar**. The logo is applied to all pages.
@@ -454,10 +486,10 @@ The images were obtained from:
 
 * Content: 
    * After speaking with my mentor about my idea, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) as a source of inspiration.
-   ___
+___
 # 7. License
    * No license needed. All the images are free.
-   ___
+___
 # 8. Screenshot
 * Home
 ![Home](assets/screenshots/home.jpeg)
