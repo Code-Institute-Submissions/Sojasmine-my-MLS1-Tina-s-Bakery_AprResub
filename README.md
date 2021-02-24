@@ -5,8 +5,8 @@
 
  ![website](assets/source/screenshot1.jpg)
  
- This website is about **Tina's Bakery** a family owned company that bakes and sells cakes, breads, buns, pastries and the other confectionery products. 
- As a user you can order baking and confectionery products online by filling the contact information or by making a call.
+ This website is about **Tina's Bakery** a family-owned company that bakes and sells cakes, bread, buns, pastries and other confectionery products. 
+ As a user,you can order baking and confectionery products online by filling in the contact information or by making a call.
  This website is a way to help the user to find out what range of bakes the bakery has to offer their customers. 
  Users can also visit Tina's bakery to buy freshly baked products and have a good coffee with freshly brewed coffee. 
 ___
@@ -40,23 +40,23 @@ ___
 
 # 1. UX
 ### Site owner business objective
-This website is a great opportunity for the owner to be seen online. The customers can place orders at anytime.
+This website is a great opportunity for the owner to be seen online. The customers can place orders at any time.
 
-This webiste allows the owner to reach the target group and the market.
+The website allows the owner to reach the target group and the market.
 
-The user get the best possible visitor experience.
+The user gets the best possible visitor experience. 
 ### User objective
 ___
 #### New user objective:
- * User can easily find several options about their pastries products.The pastries include images, description and prices.
+ * User can easily find several options about their pastries products. The pastries include images, descriptionS and prices.
  * User can use the contact form to fulfill order.
- * User can design their own wishes by adding a file.
- * User is able to choose a delivery date.
+ * User can design their wishes by adding a file.
+ * User can choose a delivery date.
  * User can write an additional request.
  * User can visit and eat at the shop.
  * Customers recommend us to new customers
 #### Returning user objective:
- * User can find new products with new theme.
+ * Users can find new products with the new theme.
  * User can navigate easily on the site.
  * User can get discount.
  * User can come with their wishes.
@@ -65,11 +65,11 @@ ___
 ### User stories
 ___
 #### As a site owner:
- * I want to make sure that my customers can easily navigate on the website without problem.
+ * I want to make sure that my customers can easily navigate the website without a problem.
  * I would like my customers to be able to find what are they looking for.
  * I want to give satisfaction to my customers from their additional request and their special order.
  * I want the customers to be able to design or upload their requests.
- * I want to give my customers compensation or discounts if problem occured. 
+ * I want to give my customers compensation or discounts if a problem occurred. 
  * I hope that the customers will come back with a new order.
  * I want to deliver the orders on time.
  * I wish that nothing happen during the transport delivery time.
@@ -80,21 +80,21 @@ ___
  * I wish that I can ask for help if I need it.
  * I hope that I can get my order on time.
  * I hope that it is tasty as it looks like. 
- * I hope that it is perfect and nice as the images.
+ * I hope that it is as perfect and nice as the images.
  * I hope it is not that expensive.
- * I wish the stuff and personal are helpful and nice. 
+ * I wish the staff and personal are helpful and nice. 
  * I hope that they understand my needs.
 #### As a returning customer:
  * I wish that I can find my favorites.
  * I hope they have something new and interesting to offer.
- * I wish I can get discount.
+ * I wish I can get a discount.
 ### Structure of the website
 This is a responsive website which works on all type of devices.
-The majority of visitors can quickly find what they want, in an interactive or creative way.
+The majority of visitors can quickly find what they want, interactivelt or creatively way.
 The navigation menu is a great tool for the user to navigate the website easily.
 ___
 ### Wireframes
-I used balsamiq wireframe for skeleton.
+I used Balsamiq wireframe for  the skeleton.
 
 [View the wireframe here](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:e59c686c-b3a7-43a9-ad4d-9adced2a7ffb)
 ___
@@ -134,7 +134,7 @@ Colors used on the project:
 * The images was borrowed from [Canva](http://www.canva.com), [Pixabay](http://www.pixabay.com) and [Besthqwallpapers](http://besthqwallpapers.com).
 ___
 # 2. Features
- The website contains 7 pages. The navigation **Menu** linked to an pdf file which open to a separate window.
+ The website contains 7 pages. The navigation **Menu** is linked to a pdf file that opens to a separate window.
 ### Navigation bar
  The navigation is placed on the left upper corner of the page. It is a responsive navigation bar, that works on all devices. 
 
@@ -148,32 +148,32 @@ ___
      * Contact
 
 ### Footer
-The footer contains the copyright information and social links which connect webpages to a separate tab in a browser. The footer appear in all pages.
+The footer contains the copyright information and social links which connect webpages to a separate tab in a browser. The footer appears on all pages.
 #### Home
-* The homepage includes two images section. 
+* The homepage includes two image sections. 
  * 1 image for decoration of the first section.  
- * 4 images represent the bakery's customers favorite cakes and pastries with descritpion and prices.
+ * 4 images represent the bakery's customer's favorite cakes and pastries with descritpions and prices.
 #### Cakes
 * This page contains 12 images that are divided into different categories: 
  * 4 images for the _wedding cakes_ category
  * 4 images for the _Birthday cakes_ category
  * 4 images for the _Valentine's day cakes_ category
 #### Bread
-* This pages contains iamges of different kinds of breads with description and prices.
+* This page contains iamges of different kinds of bread with descriptions and prices.
 #### Gallery
-* This pages contains 10 different kinds of pastries and cakes images.
+* This page contains 10 different kinds of pastries and cakes images.
 #### Menu
 * The menu page contains only a _Menu_ on pdf. 
 #### About
-* This pages sontains thre section.
- * First section describe a lot of information about Tina's bakery.
+* This page contains three sections.
+ * First section describes a lot of information about Tina's bakery.
  * Second section contains _carousel_ with three images.
 #### Contact
-* This page contains an image, phone number, address, email and an order form. User can purchase order by filling this form.
+* This page contains an image, phone number, address, email, and an order form. Users can purchase orders by filling this form.
 ### Future implementations
 
 * Improve the quality of the website by adding a _Cart_ for direct order.
-* Poosibility to pay with the bankcards and credits cards som VISA, mastercard and other cards. 
+* Poosibility to pay with  bank cards and credit cards som VISA, Mastercard and other cards. 
 * Details of all ingredients under the product names.
 * Add a popovers 
 * User rating system and experience of our products.
@@ -182,8 +182,8 @@ ___
  #### HTML5
  
  #### css3_pr_text
- * Css used to style the site
- * css gradient used to create the background color of the menu-bar.
+ * CSS used to style the site
+ * cSS gradient used to create the background color of the menu-bar.
 
  #### Bootstrap
  * Bootsrap version 4.2.1 
@@ -192,7 +192,7 @@ ___
  #### Google Fonts
  * As a font resource
  #### Github
- * As a code hosting plattform to store the project, the README file and to add, commit and push. 
+ * As a code hosting platform to store the project, the README file and to add, commit and push. 
  
  #### Gitpod
  * As the main source to create the project.
@@ -209,34 +209,33 @@ ___
  ___
 # 4. Testing
 #### Functionality Testing
- * I used W3 validator to check and find _error_ or _issues_ on the HTML code and CSS.
+ * I used the W3 validator to check and find _error_ or _issues_ on the HTML code and CSS.
    * Result after running the final test om W3 HTML: 
    * Result after running the final check on W3 CSS: 
- Chrome developer used to check the performance of the site.
+ Chrome developers used to check the performance of the site.
 #### Compatibility Testing
 [Am I Responsive](http://ami.responsivedesign.is/) used to generate the site images on all devices such as **desktop**, **tablet** , **mobile** and **laptop**
 
-The website was tested with different devices such us: Motorola 6, Ihpone 8, Lenovo Thinkpad, MSI Laptop.
+The website was tested with different devices such as Motorola 6, Ihpone 8, Lenovo Thinkpad, MSI Laptop.
 
-The site was runned by following browsers: 
+The site was run by the following browsers: 
 * Google chrome
 * Opera
 * Firefox
 * Microsoft edge
 #### Issues and bugs by emplenting this site
-* Error 304 and 404 on my workspace.I googled what is this for code. After I deleled the browser historic everything work fine again.
+* Error 304 and 404 on my workspace. I googled what is this for code. After I deleled the browser history everything works fine again.
 * After running the [W3 Validator](https://validator.w3.org/) I got the following errors: 
 
-css error: Too many values or values are not recognized.
+CSS error: Too many values or values are not recognized.
 
 <img src="assets/source/Error.JPG">
 
 I removed the line to fix the problem.
 
 * Poor values of _Alt_ on the images. I gave the images the correct value.
-* The contact information form with the address, email and opening hours looks very big on a mobile device so I changed the source code to: 
-
-
+* The contact information form with the address, email, and opening hours looks very big on a mobile device so I changed the source code to: 
+(ADD A CODE HERE)
 #### Performance Testing
 <img src="assets/source/performance.jpg">
 
@@ -256,7 +255,7 @@ I removed the line to fix the problem.
  
  <img src="assets/source/performance2.jpg">
 
- I shortened the text from *we accept all orders, large or small, standard or special . We will do our best to satisfy our customers* 
+ I shortened the text from *we accept all orders, large or small, standard or special. We will do our best to satisfy our customers* 
   to  *Fill the form below*
 
   <img src="assets/source/performance4.jpg">
@@ -268,30 +267,30 @@ I removed the line to fix the problem.
 [W3C Validator](https://validator.w3.org/)to check HTML
 ___
 # 5. Deployment
-To deploy the Githubpages, I used the following steps: 
+To deploy the Github pages, I used the following steps: 
   * Before creating the repository, I used [Code institute student full templalte link](https://github.com/Code-Institute-Org/gitpod-full-template).
   * Click on ** use this template** and create my repository. 
   * [Repository name](https://github.com/Sojasmine/my-MLS1-Tina-s-Bakery)
-  * From the settings, under the GithHub Pages, I choose **master** branch and clicked the save button.
+  * From the settings, under the GithHub Pages, I choose **master** branch and clicked on the Save button.
   * My github page is published at [site name](https://sojasmine.github.io/my-MLS1-Tina-s-Bakery/)
-  * Back on the top of my repository pages, beside the green _gitpod_ button. I wrote a short description about my project linked in with my github page. I added Tina's Bakery as **topics**.
+  * Back on the top of my repository pages, besides the green _gitpod_ button. I wrote a short description of my project linked in with my github page. I added Tina's Bakery as **topics**.
 
-Forking is a making a copy of the repository:
+Forking is making a copy of the repository:
 
- Steps to fork the Githug Repository
-  * Log in into your Github account
+ Steps to fork the GitHub Repository
+  * Log in into your Github account.
   * Find the Github repository with you'd like to fork.
   * Go to the top of the repository page [here](https://github.com/Sojasmine/my-MLS1-Tina-s-Bakery).
   * Click the Fork button on the upper right-hand side under your profile photo.
-  * Now, you have the copy of the repository on your Github account.
+  * Now, you have a copy of the repository on your Github account.
 Clone a repository:
   * You have to determine the URL for the forked repository before you can _clone it_ 
-  * Copy the URL an then use it with *git clone*
-  * Remember that it is the copy you have to clone not the original repository
+  * Copy the URL and then use it with *git clone*
+  * Remember that it is the copy you have to clone not the original repository.
   
 # 6. Credits
 
-* These websites were great help for me during this project: 
+* These websites were a great help for me during this project: 
 
   * [W3 schools](https://www.w3schools.com)
 
@@ -311,7 +310,7 @@ Clone a repository:
   
 
 #### Code
-* Bootsrap: [Hamburger menu](https://getbootstrap.com/docs/4.2/components/navbar/)
+* Bootstrap: [Hamburger menu](https://getbootstrap.com/docs/4.2/components/navbar/)
 * W3s chools: [Color of the navigation menu](https://www.w3schools.com/cssref/func_linear-gradient.asp)
 * Bootstrap: [Cards](https://getbootstrap.com/docs/4.2/components/card/)
 * W3 schools: [Jumbotron](https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_jumbotron&stacked=h)
@@ -334,7 +333,7 @@ The images were obtained from:
 
 
 
-* Logo for the **Navbar**. The logo is applied on all the menu-bar.
+* Logo for the **Navbar**. The logo is applied to all pages.
 
    * [The logo](https://editor.freelogodesign.org/?lang=en&logo=3613cf6a-7633-4fee-8871-8837207f6954)
 
@@ -433,25 +432,37 @@ The images were obtained from:
     * [cake 17](https://besthqwallpapers.com/sv/mat/korn-kaffe-frukost-v%C3%A4xande-608)
 
 * Content: 
-   * After speaking with my mentor about my idea, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) for source of inspiration.
+   * After speaking with my mentor about my idea, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) as a source of inspiration.
    ___
 # 7. License
    * No license needed. All the images are free.
    ___
 # 8. Screenshot
+* Home
+![Home](assets/screenshots/home.jpeg)
+* Cakes
+![Cakes](assets/screenshots/cakes.jpeg)
+* Bread
+![Bread](assets/screenshots/bread.jpeg)
+* Gallery
+![Gallery](assets/screenshots/gallery.jpeg)
+* About
+![About](assets/screenshots/about.jpeg)
+* Menu
+ ![Menu](assets/screenshots/menu.jpg)
+* Contact
+![Contact](assets/screenshots/contact.jpeg)
+
 ___
 # 9. Contact
    * Author: Sojasmine Gjerstad. Student at Code Intsitute,2021.
 
-     Project link: [My github pages](https://sojasmine.github.io/my-MLS1/)
+     Project link: [My github pages](https://sojasmine.github.io/my-MLS1-Tina-s-Bakery/)
 
 
 
      
- * The code for navbar was taken from bootsrap. I added more nav-items on the link and changed the description.
-
-![navbar](assets/images/navbarmenu.JPG)
-
+ 
    
 
 
