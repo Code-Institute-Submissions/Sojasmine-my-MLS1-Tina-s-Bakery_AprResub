@@ -211,9 +211,12 @@ ___
 #### Functionality Testing
  * I used the W3 validator to check and find _error_ or _issues_ on the HTML code and CSS.
    * Result after running the final test om W3 HTML: 
-    Document checking completed. No erros or warnings to show.
+    Document checking completed. No errors or warnings to show.
    * Result after running the final check on W3 CSS: 
- Chrome developers used to check the performance of the site.
+   Document checking completed. No errors or warning to show.
+
+* Chrome developers used to check the performance of the site.
+
 #### Compatibility Testing
 [Am I Responsive](http://ami.responsivedesign.is/) used to generate the site images on all devices such as **desktop**, **tablet** , **mobile** and **laptop**
 
@@ -271,7 +274,7 @@ The site was run by the following browsers:
  <img src="assets/source/performance5.jpg">
 
  > I add width and height on the images above
- 
+
   Final result of performance: 
 
   <img src="assets/source/performance4.jpg">
