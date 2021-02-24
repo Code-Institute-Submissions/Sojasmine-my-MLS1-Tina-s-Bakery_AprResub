@@ -211,6 +211,7 @@ ___
 #### Functionality Testing
  * I used the W3 validator to check and find _error_ or _issues_ on the HTML code and CSS.
    * Result after running the final test om W3 HTML: 
+    Document checking completed. No erros or warnings to show.
    * Result after running the final check on W3 CSS: 
  Chrome developers used to check the performance of the site.
 #### Compatibility Testing
@@ -234,8 +235,7 @@ CSS error: Too many values or values are not recognized.
 I removed the line to fix the problem.
 
 * Poor values of _Alt_ on the images. I gave the images the correct value.
-* The contact information form with the address, email, and opening hours looks very big on a mobile device so I changed the source code to: 
-(ADD A CODE HERE)
+
 #### Performance Testing
 <img src="assets/source/performance.jpg">
 
@@ -455,6 +455,7 @@ The images were obtained from:
 
 ___
 # 9. Contact
+
    * Author: Sojasmine Gjerstad. Student at Code Intsitute,2021.
 
      Project link: [My github pages](https://sojasmine.github.io/my-MLS1-Tina-s-Bakery/)
