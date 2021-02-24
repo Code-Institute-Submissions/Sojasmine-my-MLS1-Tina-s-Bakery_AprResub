@@ -228,13 +228,23 @@ The site was run by the following browsers:
 * Error 304 and 404 on my workspace. I googled what is this for code. After I deleled the browser history everything works fine again.
 * After running the [W3 Validator](https://validator.w3.org/) I got the following errors: 
 
-CSS error: Too many values or values are not recognized.
+* CSS error: Too many values or values are not recognized.
 
 <img src="assets/source/Error.JPG">
 
-I removed the line to fix the problem.
+>I removed the line to fix the problem.
 
-* Poor values of _Alt_ on the images. I gave the images the correct value.
+* Poor values of _Alt_ on the images. 
+ 
+>I gave the images the correct value.
+
+* Section lacks heading.
+
+ <img src="assets/source/error3.jpg">
+
+  > I added heading elements between the sections.
+  ` <h3>Call us: Tel 0523-40 466</h3> ` and ` <h6>Fill the order form below</h6> ` 
+
 
 #### Performance Testing
 <img src="assets/source/performance.jpg">
@@ -243,22 +253,30 @@ I removed the line to fix the problem.
 
   <img src="assets/source/error2.JPG">
 
-  I soLved the problem by changing the image into _jpg_ and resized the images by using [compressor](https://compressor.io/)
+  >I soLved the problem by changing the image into _jpg_ and resized the images by using [compressor](https://compressor.io/)
 
   <img src="assets/source/social_links.JPG">
   
-   I solved it by adding `<a rel="noreferrer" target="_blank" href="#">` for the social links.
+  >I solved it by adding `<a rel="noreferrer" target="_blank" href="#">` for the social links.
 
    <img src="assets/source/text.jpg">
 
-   I resized the DOM size.
+  >I resized the DOM size.
  
  <img src="assets/source/performance2.jpg">
 
- I shortened the text from *we accept all orders, large or small, standard or special. We will do our best to satisfy our customers* 
+ >I shortened the text from *we accept all orders, large or small, standard or special. We will do our best to satisfy our customers* 
   to  *Fill the form below*
 
+ <img src="assets/source/performance5.jpg">
+
+ > I add width and height on the images above
+ 
+  Final result of performance: 
+
   <img src="assets/source/performance4.jpg">
+
+  
   
 #### Code validation
 
@@ -269,7 +287,7 @@ ___
 # 5. Deployment
 To deploy the Github pages, I used the following steps: 
   * Before creating the repository, I used [Code institute student full templalte link](https://github.com/Code-Institute-Org/gitpod-full-template).
-  * Click on ** use this template** and create my repository. 
+  * Click on **use this template** and create my repository. 
   * [Repository name](https://github.com/Sojasmine/my-MLS1-Tina-s-Bakery)
   * From the settings, under the GithHub Pages, I choose **master** branch and clicked on the Save button.
   * My github page is published at [site name](https://sojasmine.github.io/my-MLS1-Tina-s-Bakery/)
