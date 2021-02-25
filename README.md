@@ -220,7 +220,7 @@ ___
 #### Compatibility Testing
 [Am I Responsive](http://ami.responsivedesign.is/) used to generate the site images on all devices such as **desktop**, **tablet** , **mobile** and **laptop**
 
-The website was tested with different devices such as Motorola 6, Ihpone 8, Lenovo Thinkpad, MSI Laptop.
+The website was tested with different devices such as Motorola 6, Ihpone 8, Lenovo Thinkpad, MSI Laptop, Lenovo tablet.
 
 The site was run by the following browsers: 
 * Google chrome
