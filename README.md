@@ -382,8 +382,9 @@ ___
 * Bootstrap: [Cards](https://getbootstrap.com/docs/4.2/components/card/)
 * W3 schools: [Jumbotron](https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_jumbotron&stacked=h)
 * Bootstrap: [Forms](https://getbootstrap.com/docs/4.2/components/forms/)
-* W3 schools: [emoJI](https://www.w3schools.com/charsets/ref_emoji.asp)
+* W3 schools: [emoij](https://www.w3schools.com/charsets/ref_emoji.asp)
 * W3 schools: [Symbols](https://www.w3schools.com/html/html_symbols.asp)
+* W3 schools: [Arrows](https://www.w3schools.com/charsets/ref_utf_arrows.asp)
 * Bootstrap: [Carousel](https://getbootstrap.com/docs/4.2/components/carousel/)
 ___
 #### Images
@@ -439,7 +440,7 @@ The images were obtained from:
 
     * [valentine's cake deluxe nr 3](https://besthqwallpapers.com/sv/mat/hallon-paj-s%C3%B6ta-bakverk-makro-hallon-hj%C3%A4rta-formade-paj-134503)
 
-    *  [valentine's cake deluxe nr 4](https://besthqwallpapers.com/sv/mat/alla-hj%C3%A4rtans-dag-t%C3%A5rta-s%C3%B6tsaker-t%C3%A5rta-dekoration-romantisk-present-39264)
+    * [valentine's cake deluxe nr 4](https://besthqwallpapers.com/sv/mat/alla-hj%C3%A4rtans-dag-t%C3%A5rta-s%C3%B6tsaker-t%C3%A5rta-dekoration-romantisk-present-39264)
 
 * **Bread** images:
 
