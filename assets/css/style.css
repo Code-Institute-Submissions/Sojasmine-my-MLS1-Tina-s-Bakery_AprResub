@@ -42,12 +42,12 @@ body {
 }
 
 .nav-link:hover {
-    font-weight: 200;
+    font-weight: 400;
     background-color: #fff;
 }
 
 .navbar-brand img {
-    width: 80px;
+    width: 120px;
     margin-top: 5px;
     margin-left: 20px;
 }
