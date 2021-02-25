@@ -515,11 +515,11 @@ ___
 * Gallery
 ![Gallery](assets/screenshots/gallery.jpeg)
 * About
-![About](assets/screenshots/about.jpeg)
+![About](assets/screenshots/about1.jpeg)
 * Menu
  ![Menu](assets/screenshots/menu.jpg)
 * Contact
-![Contact](assets/screenshots/contact.jpeg)
+![Contact](assets/screenshots/contact1.jpeg)
 
 ___
 # 9. Contact
