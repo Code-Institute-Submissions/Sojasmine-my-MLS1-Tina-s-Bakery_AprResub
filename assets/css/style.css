@@ -9,7 +9,7 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #212529;
+    color: #0a0a0a;
     text-align: left;
 
 }
@@ -22,7 +22,7 @@ body {
 .nav-link {
     font-size: 16px;
     margin: 5px;
-    color: hsl(120, 3%, 8%)!important;
+    color: #0a0a0a!important;
     font-weight: 200;
 }
 
@@ -37,7 +37,7 @@ body {
     border: none!important;
 }
 .navbar .fa {
-    color: #131413!important;
+    color: #0a0a0a!important;
     font-size: 26px;
 }
 
