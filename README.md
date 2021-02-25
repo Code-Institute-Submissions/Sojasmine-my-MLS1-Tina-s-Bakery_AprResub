@@ -304,15 +304,23 @@ ___
 * I wish that I can ask for help if I need it.
 > Use the contact information by making a call, sending an email, fill the form, or by coming for visit to the shop.
 * I hope that I can get my order on time.
+> Customers can select date of delivery.
 * I hope that it is tasty as it looks like.
 * I hope that it is as perfect and nice as the images.
+> Customers can have a look at the images.
 * I hope it is not that expensive.
+> All the products are marked with prices.
 * I wish the staff and personal are helpful and nice.
+> Customers can use the contact information.
 * I hope that they understand my needs.
+> The additional request is for that. Customers can explain and write in detail their wishes.
 ##### As a returning customer:
 * I wish that I can find my favorites.
+> Customers ca scroll throught the images.
 * I hope they have something new and interesting to offer.
+> New theme for a different season.
 * I wish I can get a discount.
+> Customers get a discount after the third order.
 ___
 #### Code validation
 
