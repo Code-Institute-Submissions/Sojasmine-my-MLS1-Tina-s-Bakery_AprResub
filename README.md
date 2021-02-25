@@ -74,7 +74,6 @@ ___
  * I want to deliver the orders on time.
 #### As a new customer:
  * I wish that I can find what I am looking for.
- * I hope I can use my present card.
  * I wish that it is not complicated to purchase an order.
  * I wish that I can ask for help if I need it.
  * I hope that I can get my order on time.
@@ -87,6 +86,7 @@ ___
  * I wish that I can find my favorites.
  * I hope they have something new and interesting to offer.
  * I wish I can get a discount.
+ ___
 ### Structure of the website
 This is a responsive website which works on all type of devices.
 The majority of visitors can quickly find what they want, interactively or creatively way.
@@ -158,46 +158,49 @@ The footer contains the copyright information and social links which connect web
  * 4 images for the _Birthday cakes_ category
  * 4 images for the _Valentine's day cakes_ category
 #### Bread
-* This page contains iamges of different kinds of bread with descriptions and prices.
+* This page contains images of different kinds of bread with descriptions and prices.
 #### Gallery
 * This page contains 10 different kinds of pastries and cakes images.
 #### Menu
 * The menu page contains only a _Menu_ on pdf. 
 #### About
 * This page contains three sections.
- * First section describes a lot of information about Tina's bakery.
+ * The first section describes a lot of information about Tina's bakery.
  * Second section contains _carousel_ with three images.
+ * The hird section is about customer reviews.
 #### Contact
 * This page contains an image, phone number, address, email, and an order form. Users can purchase orders by filling this form.
+___
 ### Future implementations
 
 * Improve the quality of the website by adding a _Cart_ for direct order.
-* Poosibility to pay with  bank cards and credit cards som VISA, Mastercard and other cards. 
+* Possibility to pay with bank cards and credit cards as VISA, Mastercard, and other cards. 
 * Details of all ingredients under the product names.
-* Add a popovers 
+* Add popovers.
 * User rating system and experience of our products.
 * Add another page where customers can order **present cards**
+* Implement newsletter function.
 ___
 # 3. Technology
  #### HTML5
  
- #### css3_pr_text
+ #### CSS
  * CSS used to style the site
- * cSS gradient used to create the background color of the menu-bar.
+ * CSS gradient used to create the background color of the menu-bar.
 
  #### Bootstrap
- * Bootsrap version 4.2.1 
+ * Bootsrap version 4.2.1. 
  #### Font awesome
  * For the social links icon in the footer section.
  #### Google Fonts
- * As a font resource
+ * As a font resource.
  #### Github
  * As a code hosting platform to store the project, the README file and to add, commit and push. 
  
  #### Gitpod
  * As the main source to create the project.
  #### Git
- * As a version -control system tracking.
+ * As a version-control system tracking.
  #### Balsamiq
  *  a wireframe to create the desktop and mobile wireframe.
  #### W3 Validator
@@ -209,11 +212,11 @@ ___
 ___
 # 4. Testing
 #### Functionality Testing
- * I used the W3 validator to check and find _error_ or _issues_ on the HTML code and CSS.
-   * Result after running the final test om W3 HTML: 
-    Document checking completed. No errors or warnings to show.
+ * I used the W3 validator to check and find _error_ and _issues_ on the HTML code and CSS.
+   * The result after running the final test on W3 HTML: 
+    >Document checking completed. No errors or warnings to show.
    * Result after running the final check on W3 CSS: 
-   Document checking completed. No errors or warning to show.
+   >Document checking completed. No errors or warning to show.
 
 * Chrome developers used to check the performance of the site.
 ___
@@ -230,6 +233,7 @@ The site was run by the following browsers:
 ___
 #### Issues and bugs by emplenting this site
 * Error 304 and 404 on my workspace. I googled what is this for code. After I deleled the browser history everything works fine again.
+
 * After running the [W3 Validator](https://validator.w3.org/) I got the following errors: 
 
 * CSS error: Too many values or values are not recognized.
@@ -252,6 +256,7 @@ ___
 
 ___
 #### Performance Testing
+
 <img src="assets/source/performance.jpg">
 
 * After running performance those issues appeared: 
@@ -275,7 +280,7 @@ ___
 
  <img src="assets/source/performance5.jpg">
 
- > I add width and height on the images above
+ > I added width and height on the images above
 
   Final result of performance: 
 
@@ -292,7 +297,7 @@ ___
 * I want to give satisfaction to my customers from their additional request and their special order.
 > Customers can find information about the _additiomal request_ on the contact page. Customers can easily fill in the request field.
 * I want the customers to be able to design or upload their requests.
-> The possibility to send and upload customer's file or picture can easily be done by filling in the order form.
+> The possibility to send and upload a customer's file or picture can easily be done by filling in the order form.
 * I hope that the customers will come back with a new order.
 > Customers can make new orders by surfing on the home page, cakes page, and bread page.
 * I want to deliver the orders on time.
@@ -301,12 +306,12 @@ ___
 * I wish that I can find what I am looking for.
 > More information can new customers find on all pages.
 * I wish that it is not complicated to purchase an order.
-* I wish that I can ask for help if I need it.
-> Use the contact information by making a call, sending an email, fill the form, or by coming for visit to the shop.
+ * I wish that I can ask for help if I need it.
+> Use the contact information by making a call, sending an email, fill the form, or coming for visit to the shop.
 * I hope that I can get my order on time.
-> Customers can select date of delivery.
+> Customers can select the date of delivery.
 * I hope that it is tasty as it looks like.
-* I hope that it is as perfect and nice as the images.
+ * I hope that it is as perfect and nice as the images.
 > Customers can have a look at the images.
 * I hope it is not that expensive.
 > All the products are marked with prices.
@@ -316,7 +321,7 @@ ___
 > The additional request is for that. Customers can explain and write in detail their wishes.
 ##### As a returning customer:
 * I wish that I can find my favorites.
-> Customers ca scroll throught the images.
+> Customers can scroll through the images.
 * I hope they have something new and interesting to offer.
 > New theme for a different season.
 * I wish I can get a discount.
@@ -491,9 +496,11 @@ The images were obtained from:
 * **Contact** images:
 
     * [cake 17](https://besthqwallpapers.com/sv/mat/korn-kaffe-frukost-v%C3%A4xande-608)
-
-* Content: 
-   * After speaking with my mentor about my idea, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) as a source of inspiration.
+    ___
+# Acknowledgement: 
+    
+   * After speaking with my mentor about my idea, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) as a source of inspiration. 
+   Thanks to him, I managed to fulfill this project.
 ___
 # 7. License
    * No license needed. All the images are free.
