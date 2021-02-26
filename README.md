@@ -14,18 +14,18 @@ ___
 ## Table of Contents
 1. UX
     * [Site owner business objective](#Site-owner-business-objective)
-    * [User objective](User-objective)
-       * [New user objective](New-user-objective)
-       * [Returning user objective](Returning-user-objective)
-       * [Site owner business objective](Site-owner-business-objective)
-    * [User stories](User-stories)
-    * [Structure of the website](Structure-of-the-website)
-    * [Wireframes](Wireframes)
-    * [Surface](Surface)
+    * [User objective](#User-objective)
+       * [New user objective](#New-user-objective)
+       * [Returning user objective](#Returning-user-objective)
+       * [Site owner business objective](#Site-owner-business-objective)
+    * [User stories](#User-stories)
+    * [Structure of the website](#Structure-of-the-website)
+    * [Wireframes](#Wireframes)
+    * [Surface](#Surface)
 
-1. [Features](Features)
-1. [Technology](Technology)
-1. [Testing](Testing)
+1. [Features](#Features)
+1. [Technology](#Technology)
+1. [Testing](#Testing)
    * Functionality Testing
    * Compatibility Testing
    * Code validation
@@ -33,12 +33,12 @@ ___
    * Issues and bugs
    * Perfomance Testing
 ___
-1. [Deployment](Deployment)
-1. [Credits](Credits)
-1. [Acknowledgement](Acknowledgement)
-1. [License](License)
-1. [Screenshots](Screenshots)
-1. [Contact](Contact)
+1. [Deployment](#Deployment)
+1. [Credits](#Credits)
+1. [Acknowledgement](#Acknowledgement)
+1. [License](#License)
+1. [Screenshots](#Screenshots)
+1. [Contact](#Contact)
 
 # 1. UX
 ### Site owner business objective
