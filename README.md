@@ -13,30 +13,32 @@ ___
 
 ## Table of Contents
 1. UX
-    * Site owner business objective
-    * User objective
-       * New user objective
-       * Returning user objective
-       * Site owner business objective
-    * User stories
-    * Structure of the website
-    * Wireframes
-    * Surface
+    * [Site owner business objective](#Site-owner-business-objective)
+    * [User objective](User-objective)
+       * [New user objective](New-user-objective)
+       * [Returning user objective](Returning-user-objective)
+       * [Site owner business objective](Site-owner-business-objective)
+    * [User stories](User-stories)
+    * [Structure of the website](Structure-of-the-website)
+    * [Wireframes](Wireframes)
+    * [Surface](Surface)
 
-1. Features
-1. Technology
-1. Testing
+1. [Features](Features)
+1. [Technology](Technology)
+1. [Testing](Testing)
    * Functionality Testing
    * Compatibility Testing
    * Code validation
    * User stories Testing
    * Issues and bugs
    * Perfomance Testing
-1. Deployment
-1. Credits
-1. License
-1. Screenshot
-1. Contact
+___
+1. [Deployment](Deployment)
+1. [Credits](Credits)
+1. [Acknowledgement](Acknowledgement)
+1. [License](License)
+1. [Screenshots](Screenshots)
+1. [Contact](Contact)
 
 # 1. UX
 ### Site owner business objective
@@ -498,15 +500,25 @@ The images were obtained from:
 
     * [cake 17](https://besthqwallpapers.com/sv/mat/korn-kaffe-frukost-v%C3%A4xande-608)
     ___
-# Acknowledgement: 
+# 7. Acknowledgement: 
     
    * After speaking with my mentor about my idea, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) as a source of inspiration. 
    Thanks to him, I managed to fulfill this project.
 ___
-# 7. License
+# 8. License
    * No license needed. All the images are free.
 ______
-# 9. Contact
+# 9. Screenshots
+
+Home
+![home](assets/screenshots/home.jpeg)
+Cakes
+![cakes](assets/screenshots/cakes.jpeg)
+Contact
+![contact](assets/screenshots/contact1.jpeg)
+
+
+# 10. 
 
    * Author: Sojasmine Gjerstad. Student at Code Intsitute,2021.
 
