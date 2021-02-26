@@ -16,11 +16,17 @@ ___
 * [Site owner business objective](#Site-owner-business-objective)
 * [User objective](#User-objective)
        * [New user objective](#New-user-objective)
+
        * [Returning user objective](#Returning-user-objective)
-       * [Site owner business objective](#Site-owner-business-objective)
+
+       * [Site owner business objective](#Site-owner-business-objective
+       
     * [User stories](#User-stories)
+
     * [Structure of the website](#Structure-of-the-website)
+
     * [Wireframes](#Wireframes)
+
     * [Surface](#Surface)
 
 [Features](#Features)
@@ -32,7 +38,7 @@ ___
    * [Functionality Testing](#Functionality-Testing)
    * [Compatibility Testing](#Compatibility-Testing)
    * [Code validation](#)
-   * [User stories Testing](#User-storie-testing)
+   * [User stories Testing](#User-stories-testing)
    * [Issues and bugs](#Issues-and-bugs)
    * [Perfomance Testing](#Performance-Testing)
 ___
