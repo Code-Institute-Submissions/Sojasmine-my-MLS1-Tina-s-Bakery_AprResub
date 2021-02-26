@@ -3,7 +3,7 @@
 
  ![webiste](assets/source/website.jpg)
 
- ![website](assets/source/screenshot1.jpg)
+
  
  This website is about **Tina's Bakery** a family-owned company that bakes and sells cakes, bread, buns, pastries and other confectionery products. 
  As a user,you can order baking and confectionery products online by filling in the contact information or by making a call.
@@ -505,24 +505,7 @@ The images were obtained from:
 ___
 # 7. License
    * No license needed. All the images are free.
-___
-# 8. Screenshot
-* Home
-![Home](assets/screenshots/home.jpeg)
-* Cakes
-![Cakes](assets/screenshots/cakes.jpeg)
-* Bread
-![Bread](assets/screenshots/bread.jpeg)
-* Gallery
-![Gallery](assets/screenshots/gallery.jpeg)
-* About
-![About](assets/screenshots/about1.jpeg)
-* Menu
- ![Menu](assets/screenshots/menu.jpg)
-* Contact
-![Contact](assets/screenshots/contact1.jpeg)
-
-___
+______
 # 9. Contact
 
    * Author: Sojasmine Gjerstad. Student at Code Intsitute,2021.
