@@ -12,9 +12,9 @@
 ___
 
 ## Table of Contents
-1. UX
-    * [Site owner business objective](#Site-owner-business-objective)
-    * [User objective](#User-objective)
+## [UX](#ux)
+* [Site owner business objective](#Site-owner-business-objective)
+* [User objective](#User-objective)
        * [New user objective](#New-user-objective)
        * [Returning user objective](#Returning-user-objective)
        * [Site owner business objective](#Site-owner-business-objective)
@@ -23,9 +23,9 @@ ___
     * [Wireframes](#Wireframes)
     * [Surface](#Surface)
 
-1. [Features](#Features)
-1. [Technology](#Technology)
-1. [Testing](#Testing)
+## [Features](#Features)
+## [Technology](#Technology)
+## [Testing](#Testing)
    * Functionality Testing
    * Compatibility Testing
    * Code validation
@@ -33,14 +33,15 @@ ___
    * Issues and bugs
    * Perfomance Testing
 ___
-1. [Deployment](#Deployment)
-1. [Credits](#Credits)
-1. [Acknowledgement](#Acknowledgement)
-1. [License](#License)
-1. [Screenshots](#Screenshots)
-1. [Contact](#Contact)
-
-# 1. UX
+## [Deployment](#Deployment)
+## [Credits](#Credits)
+## [Acknowledgement](#Acknowledgement)
+## [License](#License)
+## [Screenshots](#Screenshots)
+## [Contact](#Contact)
+___
+___
+## UX
 ### Site owner business objective
 This website is a great opportunity for the owner to be seen online. The customers can place orders at any time.
 
@@ -134,7 +135,7 @@ Colors used on the project:
 #### Images
 * The images was borrowed from [Canva](http://www.canva.com), [Pixabay](http://www.pixabay.com) and [Besthqwallpapers](http://besthqwallpapers.com).
 ___
-# 2. Features
+## Features
  The website contains 7 pages. The navigation **Menu** is linked to a pdf file that opens to a separate window.
 ### Navigation bar
  The navigation is placed on the left upper corner of the page. It is a responsive navigation bar, that works on all devices. 
@@ -183,7 +184,7 @@ ___
 * Add another page where customers can order **present cards**
 * Implement newsletter function.
 ___
-# 3. Technology
+## Technology
  #### HTML5
  
  #### CSS
@@ -212,7 +213,7 @@ ___
 
 [Am I Responsive](http://ami.responsivedesign.is/) tool for previewing the site on different devices.
 ___
-# 4. Testing
+## Testing
 #### Functionality Testing
  * I used the W3 validator to check and find _error_ and _issues_ on the HTML code and CSS.
    * The result after running the final test on W3 HTML: 
@@ -335,7 +336,7 @@ ___
 
 [W3C Validator](https://validator.w3.org/)to check HTML
 ___
-# 5. Deployment
+## Deployment
 To deploy the Github pages, I used the following steps: 
   * Before creating the repository, I used [Code institute student full templalte link](https://github.com/Code-Institute-Org/gitpod-full-template).
   * Click on **use this template** and create my repository. 
@@ -357,7 +358,7 @@ Clone a repository:
   * Copy the URL and then use it with *git clone*
   * Remember that it is the copy you have to clone not the original repository.
 ___
-# 6. Credits
+## Credits
 
 * These websites were a great help for me during this project: 
 
@@ -500,15 +501,15 @@ The images were obtained from:
 
     * [cake 17](https://besthqwallpapers.com/sv/mat/korn-kaffe-frukost-v%C3%A4xande-608)
     ___
-# 7. Acknowledgement: 
+## Acknowledgement: 
     
    * After speaking with my mentor about my idea, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) as a source of inspiration. 
    Thanks to him, I managed to fulfill this project.
 ___
-# 8. License
+## License
    * No license needed. All the images are free.
 ______
-# 9. Screenshots
+## Screenshots
 
 Home
 ![home](assets/screenshots/home.jpeg)
@@ -517,8 +518,7 @@ Cakes
 Contact
 ![contact](assets/screenshots/contact1.jpeg)
 
-
-# 10. 
+## Contact
 
    * Author: Sojasmine Gjerstad. Student at Code Intsitute,2021.
 
