@@ -11,8 +11,8 @@
  Users can also visit Tina's bakery to buy freshly baked products and have a good coffee with freshly brewed coffee. 
 ___
 
-## Table of Contents
-## [UX](#ux)
+# Table of Contents
+[UX](#ux)
 * [Site owner business objective](#Site-owner-business-objective)
 * [User objective](#User-objective)
        * [New user objective](#New-user-objective)
@@ -23,22 +23,30 @@ ___
     * [Wireframes](#Wireframes)
     * [Surface](#Surface)
 
-## [Features](#Features)
-## [Technology](#Technology)
-## [Testing](#Testing)
-   * Functionality Testing
-   * Compatibility Testing
-   * Code validation
-   * User stories Testing
-   * Issues and bugs
-   * Perfomance Testing
+[Features](#Features)
+
+[Technology](#Technology)
+
+[Testing](#Testing)
+
+   * [Functionality Testing](#Functionality-Testing)
+   * [Compatibility Testing](#Compatibility-Testing)
+   * [Code validation](#)
+   * [User stories Testing](#User-storie-testing)
+   * [Issues and bugs](#Issues-and-bugs)
+   * [Perfomance Testing](#Performance-Testing)
 ___
-## [Deployment](#Deployment)
-## [Credits](#Credits)
-## [Acknowledgement](#Acknowledgement)
-## [License](#License)
-## [Screenshots](#Screenshots)
-## [Contact](#Contact)
+[Deployment](#Deployment)
+
+[Credits](#Credits)
+
+[Acknowledgement](#Acknowledgement)
+
+[License](#License)
+
+[Screenshots](#Screenshots)
+
+[Contact](#Contact)
 ___
 ___
 ## UX
@@ -234,7 +242,7 @@ The site was run by the following browsers:
 * Firefox
 * Microsoft edge
 ___
-#### Issues and bugs by emplenting this site
+#### Issues and bugs
 * Error 304 and 404 on my workspace. I googled what is this for code. After I deleled the browser history everything works fine again.
 
 * After running the [W3 Validator](https://validator.w3.org/) I got the following errors: 
@@ -291,7 +299,7 @@ ___
 
   
 ___ 
-#### User storie testing
+#### User stories testing
 ##### As a site owner:
 * I want to make sure that my customers can easily navigate the website without a problem.
 > Customers can use the navigation bar to search through the site.
