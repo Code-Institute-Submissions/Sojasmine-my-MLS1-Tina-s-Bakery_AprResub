@@ -37,7 +37,7 @@ ___
 
    * [Functionality Testing](#Functionality-Testing)
    * [Compatibility Testing](#Compatibility-Testing)
-   * [Code validation](#)
+   * [Code validation](#Code-validation)
    * [User stories Testing](#User-stories-testing)
    * [Issues and bugs](#Issues-and-bugs)
    * [Perfomance Testing](#Performance-Testing)
