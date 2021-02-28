@@ -187,11 +187,10 @@ p {
 th, td {
     padding: 5px;
     background-color: rgb(199, 225, 241);
+    text-align: center;
 }
 
-th {
-    text-align: left;
-}
+
 
  /*-------------------Forms*/
 
