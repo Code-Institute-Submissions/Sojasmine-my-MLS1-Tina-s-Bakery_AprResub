@@ -15,11 +15,12 @@ ___
 [UX](#ux)
 * [Site owner business objective](#Site-owner-business-objective)
 * [User objective](#User-objective)
-       * [New user objective](#New-user-objective)
 
-       * [Returning user objective](#Returning-user-objective)
+    * [New user objective](#New-user-objective)
 
-       * [Site owner business objective](#Site-owner-business-objective
+    * [Returning user objective](#Returning-user-objective)
+
+    * [Site owner business objective](#Site-owner-business-objective)
        
     * [User stories](#User-stories)
 
@@ -148,6 +149,8 @@ Colors used on the project:
 * I used Poppins, Arial and sans-serif.
 #### Images
 * The images was borrowed from [Canva](http://www.canva.com), [Pixabay](http://www.pixabay.com) and [Besthqwallpapers](http://besthqwallpapers.com).
+
+[Back to Table of contents](#table-of-contents)
 ___
 ## Features
  The website contains 7 pages. The navigation **Menu** is linked to a pdf file that opens to a separate window.
@@ -197,6 +200,8 @@ ___
 * User rating system and experience of our products.
 * Add another page where customers can order **present cards**
 * Implement newsletter function.
+
+[Back to Table of contents](#table-of-contents)
 ___
 ## Technology
  #### HTML5
@@ -226,6 +231,8 @@ ___
 [W3C Validator](https://validator.w3.org/)to check HTML
 
 [Am I Responsive](http://ami.responsivedesign.is/) tool for previewing the site on different devices.
+
+[Back to Table of contents](#table-of-contents)
 ___
 ## Testing
 #### Functionality Testing
@@ -349,6 +356,8 @@ ___
 [w3 Jigsaw](https://jigsaw.w3.org/css-validator/) to validate CSS.
 
 [W3C Validator](https://validator.w3.org/)to check HTML
+
+[Back to Table of contents](#table-of-contents)
 ___
 ## Deployment
 To deploy the Github pages, I used the following steps: 
@@ -371,6 +380,8 @@ Clone a repository:
   * You have to determine the URL for the forked repository before you can _clone it_ 
   * Copy the URL and then use it with *git clone*
   * Remember that it is the copy you have to clone not the original repository.
+
+  [Back to Table of contents](#table-of-contents)
 ___
 ## Credits
 
@@ -514,12 +525,20 @@ The images were obtained from:
 * **Contact** images:
 
     * [cake 17](https://besthqwallpapers.com/sv/mat/korn-kaffe-frukost-v%C3%A4xande-608)
+
+      [Back to Table of contents](#table-of-contents)
     ___
 ## Acknowledgement: 
     
    * After speaking with my mentor about my idea, he suggests that I can use [Nuts about cake](http://www.nutsaboutcakes.com) as a source of inspiration. 
    Thanks to him, I managed to fulfill this project.
-___
+
+   *  Student slack support.
+  ___
+
+
+
+
 ## License
    * No license needed. All the images are free.
 ______
@@ -539,7 +558,7 @@ Contact
      Project link: [My github pages](https://sojasmine.github.io/my-MLS1-Tina-s-Bakery/)
 
 
-
+[Back to Table of contents](#table-of-contents)
      
  
    

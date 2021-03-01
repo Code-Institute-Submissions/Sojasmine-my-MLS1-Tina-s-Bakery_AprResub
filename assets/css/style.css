@@ -119,6 +119,7 @@ img {
     display: block;
     margin-right: auto;
     margin-left: auto;
+    height: 70vh;
    
 }
 
@@ -190,8 +191,6 @@ th, td {
     text-align: center;
 }
 
-
-
  /*-------------------Forms*/
 
 form {
@@ -213,6 +212,7 @@ footer p {
     color:  #990099;
 }
 
+
 /*-------------------Social links*/
 
 .social-links li a i {
@@ -223,4 +223,6 @@ footer p {
     font-size: 14px;
     color: #ff00ff;
 }
+
+
 
