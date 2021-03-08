@@ -9,6 +9,8 @@
  As a user,you can order baking and confectionery products online by filling in the contact information or by making a call.
  This website is a way to help the user to find out what range of bakes the bakery has to offer their customers. 
  Users can also visit Tina's bakery to buy freshly baked products and have a good coffee with freshly brewed coffee. 
+ 
+[My github pages](https://sojasmine.github.io/my-MLS1-Tina-s-Bakery/)
 ___
 
 # Table of Contents
@@ -256,6 +258,12 @@ The site was run by the following browsers:
 * Microsoft edge
 ___
 #### Issues and bugs
+* Problem with overflow on the mobile view: 
+
+<img src="assets/screenshots/Skärmklipp.JPG">
+
+>I solved it by adding: class="container-fluid" to all the sections and the footer to get rid of the overflow.
+
 * Error 304 and 404 on my workspace. I googled what is this for code. After I deleled the browser history everything works fine again.
 
 * After running the [W3 Validator](https://validator.w3.org/) I got the following errors: 
