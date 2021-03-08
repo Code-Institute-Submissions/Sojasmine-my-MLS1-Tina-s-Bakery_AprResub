@@ -316,7 +316,7 @@ ___
 
   Final result of performance: 
 
-  <img src="assets/source/performance6.jpg">
+  <img src="assets/screenshots/lperformance.jpg">
 
   
 ___ 
