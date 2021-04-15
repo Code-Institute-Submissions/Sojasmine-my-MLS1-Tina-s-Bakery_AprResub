@@ -286,6 +286,15 @@ ___
 
   ` <h3>Call us: Tel 0523-40 466</h3> ` and ` <h6>Fill the order form below</h6> ` 
 
+
+* Problem with the carousel image quality on the about page
+
+Image before 
+
+<img src="assets/screenshots/images_before.jpeg">
+
+Image after
+ 
 ___
 #### Performance Testing
 
