@@ -289,12 +289,17 @@ ___
 
 * Problem with the carousel image quality on the about page
 
-Image before 
+Image before:
+
+> The images were burry and in worse quality.
 
 <img src="assets/screenshots/images_before.jpeg">
 
-Image after
+Image after:
  
+ <img src="asstes/screenshots/screenshot7.jpeg">
+
+ > I replaced images with new images and used [fotor](https://www.fotor.com) to fix de pixelation on the carousel images. 
 ___
 #### Performance Testing
 
@@ -533,11 +538,11 @@ The images were obtained from:
 
 * **About** images: 
 
-    * [bagery](https://pixabay.com/sv/photos/marbella-andalusien-spanien-bageri-1437172/)
+    * [coffee1](https://besthqwallpapers.com/food/breakfast-scrambled-eggs-croissants-coffee-roses-73910)
 
-    * [cake26](https://pixabay.com/sv/photos/t%C3%A5rta-vispad-gr%C3%A4dde-konditori-204885/)
+    * [cupcake](https://besthqwallpapers.com/food/cupcake-with-strawberries-4k-sweets-pastries-muffins-130540)
 
-    * [bakery](https://pixabay.com/sv/photos/bageri-br%C3%B6d-ugn-hantverkare-br%C3%B6d-737476/)
+    * [piece-of-cake](https://besthqwallpapers.com/food/piece-of-cake-cake-dessert-sweets-fruit-cake-14736)
 
 * **Contact** images:
 
