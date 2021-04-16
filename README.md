@@ -297,7 +297,7 @@ Image before:
 
 Image after:
  
- <img src="asstes/screenshots/screenshot7.jpeg">
+ <img src="assets/screenshots/screenshot7.jpeg">
 
  > I replaced images with new images and used [fotor](https://www.fotor.com) to fix de pixelation on the carousel images. 
 ___
